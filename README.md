@@ -4,6 +4,7 @@
 - https://www.cyberseek.org/heatmap.html
 
 ### Security blogs/news
+- https://dawidbalut.com/
 - https://whitehatcheryl.com/
 - https://threathuntergirl.com/?blog
 - https://chrissanders.org/blog/
