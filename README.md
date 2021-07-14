@@ -44,9 +44,9 @@
 - https://malwareunicorn.org/workshops/re101.html#1
 
 ### Learn Linux 
-- https://overthewire.org/wargames/bandit/
-- https://linuxjourney.com/
-- https://www.cyberciti.biz/faq/category/linux/
+- [bandit](https://overthewire.org/wargames/bandit/)
+- [linuxjourney](https://linuxjourney.com/)
+- [cyberciti](https://www.cyberciti.biz/faq/category/linux/)
 
 ### Additional courses (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
@@ -67,15 +67,16 @@
 - https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf
 
 ### Websites about Malware
-- https://www.maldefense.com/
-- https://www.malware-traffic-analysis.net/
-- https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf
-- https://www.exploit-db.com/
+- [maldefense](https://www.maldefense.com/)
+- [malware-traffic-analysis](https://www.malware-traffic-analysis.net/)
+- [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
+- [exploit-db](https://www.exploit-db.com/)
 
 ### DFIR
 - [Playbooks](https://www.incidentresponse.com/playbooks/)
 - [SNAS youtube](https://www.youtube.com/user/robtlee73)
 - [Start.me Digital Forensics](https://start.me/p/ekq7Al/digital-forensics)
+- [Start.me Forensics](https://start.me/p/q6mw4Q/forensics)
 
 ### DFIR tools for data Acquisition
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
