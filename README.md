@@ -77,6 +77,11 @@
 - [SNAS youtube](https://www.youtube.com/user/robtlee73)
 - [Start.me Digital Forensics](https://start.me/p/ekq7Al/digital-forensics)
 
+### DFIR tools for data Acquisition
+- [processhacker](https://processhacker.sourceforge.io/downloads.php)
+- http://www.heaventools.com/overview.htm
+- [regshot](https://sourceforge.net/projects/regshot/)
+
 ### Recommanded books:
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
 - [Blue Team Handbook: Incident Response](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_2?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-2)
