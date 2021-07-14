@@ -49,10 +49,10 @@
 - https://www.cyberciti.biz/faq/category/linux/
 
 ### Additional courses (free)
-- https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
-- https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
-- https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/
-- https://chrissanders.org/training/cuckoosegg/
+- [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
+- [ActiveCountermeasures](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/)
+- [Wireshark Tutorial](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
+- [Cuckoosegg training](https://chrissanders.org/training/cuckoosegg/)
 - https://samsclass.info/152/IR2020.htm
 - https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/
 
@@ -72,12 +72,14 @@
 - https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf
 - https://www.exploit-db.com/
 
-### Incidents Response
-- https://www.incidentresponse.com/playbooks/
+### DFIR
+- [Playbooks](https://www.incidentresponse.com/playbooks/)
+- [SNAS youtube](https://www.youtube.com/user/robtlee73)
+- [Start.me Digital Forensics](https://start.me/p/ekq7Al/digital-forensics)
 
 ### Recommanded books:
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
 - [Blue Team Handbook: Incident Response](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_2?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-2)
-- [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf_
+- [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
 - [Malware Analyst's Cookbook](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/ref=sr_1_5?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-5)
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=sr_1_2?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-2)
