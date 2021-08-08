@@ -1,9 +1,9 @@
 # Resources
 
-### Career
+### CAREER/RESUME/LINKEDIN
 - https://www.cyberseek.org/heatmap.html
 
-### Security blogs/news
+### SECURITY BLOGS/NEWS
 - https://dawidbalut.com/
 - https://whitehatcheryl.com/
 - https://threathuntergirl.com/?blog
@@ -22,11 +22,12 @@
 - https://portswigger.net/daily-swig
 - https://wehackpeople.wordpress.com/blog/
 - https://github.com/trimstray/the-book-of-secret-knowledge
+- https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY
 
-### PowerShell
-- https://powerforensics.readthedocs.io/en/latest/
+### POWERSHELL
+- [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
 
-### Learn CyberSecurity (CTFs)
+### LEARN CYBERSECURITY (CTFs)
 - [Blue Team Labs](https://blueteamlabs.online/)
 - [Cyber defenders](https://cyberdefenders.org/)
 - [CTF Learn](https://ctflearn.com/)
@@ -34,21 +35,21 @@
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
 
-### Learn SQL 
-- https://sqlbolt.com/ 
-- https://pgexercises.com/questions/basic/
-- https://www.sqlteaching.com/
-- https://mystery.knightlab.com/
+### LEARN SQL 
+- [SQLbolt](https://sqlbolt.com/)
+- [PGEXERCISE](https://pgexercises.com/questions/basic/)
+- [SQL teaching](https://www.sqlteaching.com/
+- [KingLab](https://mystery.knightlab.com/)
 
-### Learn Revers Engineering 
+### LEARN REVERSE ENGINEERING
 - https://malwareunicorn.org/workshops/re101.html#1
 
-### Learn Linux 
+### LEARN LINUX 
 - [bandit](https://overthewire.org/wargames/bandit/)
 - [linuxjourney](https://linuxjourney.com/)
 - [cyberciti](https://www.cyberciti.biz/faq/category/linux/)
 
-### Additional courses (free)
+### ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
 - [ActiveCountermeasures](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/)
 - [Wireshark Tutorial](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
@@ -56,13 +57,13 @@
 - https://samsclass.info/152/IR2020.htm
 - https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/
 
-### Recommended training course
+### RECOMMENDED TRAINING COURSES 
 - [SOC Core Skills w/ John Strand](https://wildwesthackinfest.com/antisyphon//soc-core-skills-john-strand/)
 - [Getting Started in Security with BHIS and MITRE ATT&CK](https://wildwesthackinfest.com/antisyphon/getting-started-in-security-with-bhis-and-mitre-attck-john-strand/)
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
 - [Practical Threat Hunting](https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/)
 
-### Learn pentest 
+### LEARN PENTEST 
 - https://www.thecybermentor.com/zero-to-hero-pentesting
 - https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf
 
@@ -71,6 +72,8 @@
 - [malware-traffic-analysis](https://www.malware-traffic-analysis.net/)
 - [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
 - [exploit-db](https://www.exploit-db.com/)
+- [Malware Wiki](https://malwiki.org/index.php?title=Main_Page)
+- [Malicious Life Podcast](https://malicious.life/)
 
 ### DFIR
 - [Playbooks](https://www.incidentresponse.com/playbooks/)
@@ -78,12 +81,20 @@
 - [Start.me Digital Forensics](https://start.me/p/ekq7Al/digital-forensics)
 - [Start.me Forensics](https://start.me/p/q6mw4Q/forensics)
 
-### DFIR tools for data Acquisition
+### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
 - http://www.heaventools.com/overview.htm
 - [regshot](https://sourceforge.net/projects/regshot/)
 
-### Recommanded books:
+### BASH
+- [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
+- [Bash introduction for hackers part 2](https://hakin9.org/bash-introduction-for-hackers-part-2/)
+
+### THREAT HUNTING
+- [Linux Threat hunbting part 1](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-i-dd11b156cb7d)
+- [Linux Threat hunbting part 2](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-ii-69484f58ac92)
+
+### RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
 - [Blue Team Handbook: Incident Response](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_2?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-2)
 - [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
