@@ -1,9 +1,17 @@
 # Resources
 
 ### CAREER/RESUME/LINKEDIN
-- https://www.cyberseek.org/heatmap.html
+- [Heatmap](https://www.cyberseek.org/heatmap.html)
 - [LinkedIn Summary](https://www.youtube.com/watch?v=5hNsdH6Y2Mg&lc=&ab_channel=JeffSu)
 - [Why Being #OpenToWork on LinkedIn is Working Against You](https://www.youtube.com/watch?v=eEfF7yROrjA&ab_channel=JordanCarroll-TheRemoteJobCoach)
+
+### PODCAST
+- [Malicious Life](https://malicious.life/)
+- [DARKNET DIARIES](https://darknetdiaries.com/)
+- [The Privacy, Security, and OSINT Show](https://inteltechniques.com/podcast.html)
+- [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
+- [Down the Security Rabbithole Podcast](http://podcast.wh1t3rabbit.net/)
+- [The OSINT Curious Project](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84OTkyZGY0L3BvZGNhc3QvcnNz)
 
 ### SECURITY BLOGS/NEWS
 - https://dawidbalut.com/
