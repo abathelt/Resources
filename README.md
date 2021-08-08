@@ -77,7 +77,7 @@
 - https://www.thecybermentor.com/zero-to-hero-pentesting
 - https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf
 
-### Websites about Malware
+### MALWARE
 - [maldefense](https://www.maldefense.com/)
 - [malware-traffic-analysis](https://www.malware-traffic-analysis.net/)
 - [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
