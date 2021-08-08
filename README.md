@@ -2,6 +2,8 @@
 
 ### CAREER/RESUME/LINKEDIN
 - https://www.cyberseek.org/heatmap.html
+- [LinkedIn Summary](https://www.youtube.com/watch?v=5hNsdH6Y2Mg&lc=&ab_channel=JeffSu)
+- [Why Being #OpenToWork on LinkedIn is Working Against You](https://www.youtube.com/watch?v=eEfF7yROrjA&ab_channel=JordanCarroll-TheRemoteJobCoach)
 
 ### SECURITY BLOGS/NEWS
 - https://dawidbalut.com/
