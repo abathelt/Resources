@@ -91,8 +91,8 @@
 - [Bash introduction for hackers part 2](https://hakin9.org/bash-introduction-for-hackers-part-2/)
 
 ### THREAT HUNTING
-- [Linux Threat hunbting part 1](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-i-dd11b156cb7d)
-- [Linux Threat hunbting part 2](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-ii-69484f58ac92)
+- [Linux Threat hunting part 1](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-i-dd11b156cb7d)
+- [Linux Threat hunting part 2](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-ii-69484f58ac92)
 
 ### RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
