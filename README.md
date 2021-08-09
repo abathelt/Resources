@@ -107,6 +107,7 @@
 - [Bash introduction for hackers part 2](https://hakin9.org/bash-introduction-for-hackers-part-2/)
 
 ### THREAT HUNTING
+- [CTI 101 Student Handout](https://klrgrz.medium.com/cti-101-student-handout-42c1441d3519)
 - [Linux Threat hunting part 1](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-i-dd11b156cb7d)
 - [Linux Threat hunting part 2](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-ii-69484f58ac92)
 
