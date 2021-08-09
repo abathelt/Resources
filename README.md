@@ -2,8 +2,10 @@
 
 ### CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
+- [Workforce Framework for Cybersecurity](https://www.youtube.com/watch?v=oozqj7axNYM&ab_channel=CareerHackingVillage)
 - [LinkedIn Summary](https://www.youtube.com/watch?v=5hNsdH6Y2Mg&lc=&ab_channel=JeffSu)
 - [Why Being #OpenToWork on LinkedIn is Working Against You](https://www.youtube.com/watch?v=eEfF7yROrjA&ab_channel=JordanCarroll-TheRemoteJobCoach)
+- [Mind the Gap: Leveraging mind maps & self-assessments to develop a personal training plan](https://klrgrz.medium.com/mind-the-gap-leveraging-mind-maps-self-assessments-to-develop-a-personal-training-plan-8210137f3f92)
 
 ### PODCAST
 - [Malicious Life](https://malicious.life/)
@@ -33,6 +35,7 @@
 - https://wehackpeople.wordpress.com/blog/
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY
+- https://mgreen27.github.io/
 
 ### POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
@@ -84,6 +87,9 @@
 - [exploit-db](https://www.exploit-db.com/)
 - [Malware Wiki](https://malwiki.org/index.php?title=Main_Page)
 - [Malicious Life Podcast](https://malicious.life/)
+
+### INCIDENT RESPONSE
+- [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/)
 
 ### DFIR
 - [Playbooks](https://www.incidentresponse.com/playbooks/)
