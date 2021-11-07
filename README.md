@@ -51,7 +51,7 @@
 ### LEARN SQL 
 - [SQLbolt](https://sqlbolt.com/)
 - [PGEXERCISE](https://pgexercises.com/questions/basic/)
-- [SQL teaching](https://www.sqlteaching.com/
+- [SQL teaching](https://www.sqlteaching.com/)
 - [KingLab](https://mystery.knightlab.com/)
 
 ### LEARN REVERSE ENGINEERING
