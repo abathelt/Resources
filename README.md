@@ -1,6 +1,6 @@
 # Resources
 
-
+![Cybersecurity Domains](https://64.media.tumblr.com/a363e40b7d22d8835f58296df7498089/33455fcb12e993f8-38/s2048x3072/a2ac829046b46078a464dcfab16dc28dc925bfb9.png)
 
 ### 📄 CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
