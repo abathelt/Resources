@@ -1,5 +1,7 @@
 # Resources
 
+
+
 ### 📄 CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
 - [Workforce Framework for Cybersecurity](https://www.youtube.com/watch?v=oozqj7axNYM&ab_channel=CareerHackingVillage)
@@ -19,26 +21,34 @@
 - [CISO Series: Headlines, Why Discussions](https://podcasts.google.com/feed/aHR0cHM6Ly9jaXNvc2VyaWVzLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ9sEGahgKEwi4lNrr2pj0AhUAAAAAHQAAAAAQthA)
 
 ### 📰 SECURITY BLOGS/NEWS
-- https://dawidbalut.com/
-- https://whitehatcheryl.com/
-- https://threathuntergirl.com/?blog
-- https://chrissanders.org/blog/
-- www.hackingarticles.in
-- https://blog.bushidotoken.net/
-- https://the-packet-thrower.com/
-- https://www.windows-commandline.com/
-- https://www.chappell-university.com/lauras-lab
-- https://www.reimling.eu/
-- https://www.darknet.org.uk/
-- https://www.thomasmaurer.ch/
-- https://wehackpeople.wordpress.com/blog/
-- https://www.schneier.com/
-- https://jerichoattrition.wordpress.com/
-- https://portswigger.net/daily-swig
-- https://wehackpeople.wordpress.com/blog/
-- https://github.com/trimstray/the-book-of-secret-knowledge
-- https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY
-- https://mgreen27.github.io/
+- [ZDNET](https://www.zdnet.com/)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [Cyber Scoop](https://www.cyberscoop.com/)
+- [The Register](https://www.theregister.com/)
+- [Tech Beacon](https://techbeacon.com/security)
+- [The Cyber Post](https://thecyberpost.com/)
+- [Cyber News](https://cybernews.com/)
+- [The Daily Sqing](https://portswigger.net/daily-swig)
+
+#### 📝 BLOGS
+- [Dawid Bałut](https://dawidbalut.com/) 🇵🇱
+- [CyberWatch](https://whitehatcheryl.com/)
+- [threathuntergir](https://threathuntergirl.com/?blog)
+- [Chris Sanders](https://chrissanders.org/blog/)
+- [Hacking Articles](www.hackingarticles.in)
+- [Bushidotoken](https://blog.bushidotoken.net/)
+- [The Packet Thrower](https://the-packet-thrower.com/)
+- [Darknet](https://www.darknet.org.uk/)
+- [Windows Commandline](https://www.windows-commandline.com/) - not updated anymore but good posts
+- [Chappell University Labs](https://www.chappell-university.com/lauras-lab) -articles related to Wireshark and packet capture
+- [Gregor Reimling](https://www.reimling.eu/) - Azure cloud ☁️
+- [Thomas Maurer](https://www.thomasmaurer.ch/) - Azure cloud☁️
+- [Bruce Schneier](https://www.schneier.com/) - writing about security issues 
+- [Curmudgeonly Ways](https://jerichoattrition.wordpress.com/)
+- [We Hack People](https://wehackpeople.wordpress.com/blog/)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [You should turn off autofill in your password manager](https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY)
+- [Matt's DFIR Blog](https://mgreen27.github.io/)
 
 ### 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
@@ -51,12 +61,14 @@
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
 - [CryptoHack](https://cryptohack.org/) - learn cryptography
+- [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
 
 ### 🧪 LEARN SQL 
 - [SQLbolt](https://sqlbolt.com/)
 - [PGEXERCISE](https://pgexercises.com/questions/basic/)
 - [SQL teaching](https://www.sqlteaching.com/)
 - [KingLab](https://mystery.knightlab.com/)
+
 ### *️⃣ REGEX
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
 - [Regex101](https://regex101.com/)
@@ -82,10 +94,11 @@
 - https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/
 
 ### ⛳ RECOMMENDED TRAINING COURSES 
-- [SOC Core Skills w/ John Strand](https://wildwesthackinfest.com/antisyphon//soc-core-skills-john-strand/)
-- [Getting Started in Security with BHIS and MITRE ATT&CK](https://wildwesthackinfest.com/antisyphon/getting-started-in-security-with-bhis-and-mitre-attck-john-strand/)
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
 - [Practical Threat Hunting](https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/)
+- [SOC Core Skills w/ John Strand](https://wildwesthackinfest.com/antisyphon//soc-core-skills-john-strand/)
+- [Getting Started in Security with BHIS and MITRE ATT&CK](https://wildwesthackinfest.com/antisyphon/getting-started-in-security-with-bhis-and-mitre-attck-john-strand/)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/specializations/google-data-analytics)
 
 ### 🔥 LEARN PENTEST 
 - [Zero to Hero](https://www.thecybermentor.com/zero-to-hero-pentesting)
