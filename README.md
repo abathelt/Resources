@@ -47,6 +47,7 @@
 - [Hacker101](https://www.hacker101.com/)
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
+- [CryptoHack](https://cryptohack.org/) - learn cryptography
 
 ### 🧪 LEARN SQL 
 - [SQLbolt](https://sqlbolt.com/)
