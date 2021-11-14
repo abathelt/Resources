@@ -14,6 +14,9 @@
 - [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
 - [Down the Security Rabbithole Podcast](http://podcast.wh1t3rabbit.net/)
 - [The OSINT Curious Project](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84OTkyZGY0L3BvZGNhc3QvcnNz)
+- [Cyberlaw](https://www.lawfareblog.com/topic/cyberlaw-podcast!)
+- [SANS Daily Stormcast](https://isc.sans.edu/podcast.html)
+- [CISO Series: Headlines, Why Discussions](https://podcasts.google.com/feed/aHR0cHM6Ly9jaXNvc2VyaWVzLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ9sEGahgKEwi4lNrr2pj0AhUAAAAAHQAAAAAQthA)
 
 ### 📰 SECURITY BLOGS/NEWS
 - https://dawidbalut.com/
