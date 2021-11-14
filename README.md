@@ -50,8 +50,31 @@
 - [You should turn off autofill in your password manager](https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY)
 - [Matt's DFIR Blog](https://mgreen27.github.io/)
 
-### 🟦 POWERSHELL
-- [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
+### 📺 YouTube
+- [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
+- [HackerSploit](https://www.youtube.com/c/HackerSploit)
+- [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) - security tranings
+- [Nahamsec](https://www.youtube.com/c/Nahamsec/videos)
+- [STÖK](https://www.youtube.com/c/STOKfredrik) - Bug hunting
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) - hacking, OSINT
+- [BlackPerl](https://www.youtube.com/c/BlackPerl)
+- [Blue Team Village](https://www.youtube.com/c/BlueTeamVillage/videos)
+- [Red Team Village](https://www.youtube.com/c/RedTeamVillage/videos)
+- [The OSINT Curious Project](https://www.youtube.com/c/TheOSINTCuriousProject)
+- [Data Rescue Labs](https://www.youtube.com/c/DataRescueLabsIncMississauga) - Digital Forensic
+- [Gerald Auger - Simply Cyber](https://www.youtube.com/c/GeraldAuger/videos)
+- [Neil Fox](https://www.youtube.com/c/0xf0x/videos) - Malware Analyse
+- [Cybersecurity Meg](https://www.youtube.com/c/CybersecurityMeg/videos) - Security Career
+- [Nicolas Moy](https://www.youtube.com/c/NicolasMoy/videos) - Senior Cloud Security Instructor
+- [Thomas Maurer](https://www.youtube.com/c/ThomasMaurerCloud) - Azure cloud
+- [webpwnized](https://www.youtube.com/c/webpwnized/videos) - web, mobile and network penetration testing
+Polish:
+- [Kacper Szczurek](https://www.youtube.com/c/KacperSzurek) 🇵🇱
+- [Maciej Kofel](https://www.youtube.com/c/MaciejKofel/videos) 🇵🇱
+- [UW-TEAM.org](https://www.youtube.com/c/uwteamorg/videos) 🇵🇱
+- [Niebezpiecznik](https://www.youtube.com/c/NiebezpiecznikTV/videos) 🇵🇱
+- [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/videos) 🇵🇱
+- [Sekurak](https://www.youtube.com/c/SekurakTV/videos) 🇵🇱
 
 ### ♟️ LEARN CYBERSECURITY (CTFs)
 - [Blue Team Labs](https://blueteamlabs.online/)
@@ -62,6 +85,13 @@
 - [HackTheBox](https://www.hackthebox.eu/)
 - [CryptoHack](https://cryptohack.org/) - learn cryptography
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
+
+### 🟦 POWERSHELL
+- [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
+- [Learn PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
+- [Getting Started with PowerShell 3.0](https://channel9.msdn.com/Series/GetStartedPowerShell3)
+- [The Guide to Learning PowerShell](https://www.idera.com/resource-center/whitepapers/powershell-ebook) - ebook
+- [PowerShell Magazine](https://powershellmagazine.com/)
 
 ### 🧪 LEARN SQL 
 - [SQLbolt](https://sqlbolt.com/)
@@ -90,8 +120,8 @@
 - [ActiveCountermeasures](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/)
 - [Wireshark Tutorial](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
 - [Cuckoosegg training](https://chrissanders.org/training/cuckoosegg/)
-- https://samsclass.info/152/IR2020.htm
-- https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/
+- [Incident Response class](https://samsclass.info/152/IR2020.htm)
+- [Elastic for Security Analysts. Part 1: Searching Strings](https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/)
 
 ### ⛳ RECOMMENDED TRAINING COURSES 
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
