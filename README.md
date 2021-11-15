@@ -84,6 +84,8 @@ Polish:
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
 - [CryptoHack](https://cryptohack.org/) - learn cryptography
+- [Hack This Site](https://www.hackthissite.org/)
+- [Hacking Loops](https://www.hackingloops.com/)
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
 
 ### 🟦 POWERSHELL
