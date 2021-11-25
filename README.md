@@ -2,14 +2,36 @@
 
 ![Cybersecurity Domains](https://64.media.tumblr.com/a363e40b7d22d8835f58296df7498089/33455fcb12e993f8-38/s2048x3072/a2ac829046b46078a464dcfab16dc28dc925bfb9.png)
 
-### 📄 CAREER/RESUME/LINKEDIN
+- 📄 CAREER/RESUME/LINKEDIN (#career) 
+- 🎙️ PODCAST (#podcast) 
+- 📰 SECURITY NEWS (#news) 
+- 📝 BLOGS (#blogs) 
+- 📺 YouTube (#youtube) 
+- ♟️ LEARN CYBERSECURITY (CTFs) (#ctf) 
+- 🟦 POWERSHELL (#powershell) 
+- 🧪 LEARN SQL (#sql) 
+- *️⃣ REGEX (#regex) 
+- ◀️ LEARN REVERSE ENGINEERING (#reverse) 
+- 🐧 LEARN LINUX (#linux) 
+- ⌨️ BASH (#bash) 
+- ♻️ ADDITIONAL COURSES (free) (#courses) 
+- ⛳ RECOMMENDED TRAINING COURSES  (#traning) 
+- 🔥 LEARN PENTEST (#pentest) 
+- 🕷️ MALWARE (#malware) 
+- ⚠️ INCIDENT RESPONSE (#IR) 
+- 🕵️ DFIR (#DFIR) 
+- 📊 THREAT HUNTING (#TH) 
+- 🩹 VULNERABILITY MANAGEMENT (#vuln)
+- 📚 RECOMMENDED BOOKS (#books) 
+
+### <a name="career"></a> 📄 CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
 - [Workforce Framework for Cybersecurity](https://www.youtube.com/watch?v=oozqj7axNYM&ab_channel=CareerHackingVillage)
 - [LinkedIn Summary](https://www.youtube.com/watch?v=5hNsdH6Y2Mg&lc=&ab_channel=JeffSu)
 - [Why Being #OpenToWork on LinkedIn is Working Against You](https://www.youtube.com/watch?v=eEfF7yROrjA&ab_channel=JordanCarroll-TheRemoteJobCoach)
 - [Mind the Gap: Leveraging mind maps & self-assessments to develop a personal training plan](https://klrgrz.medium.com/mind-the-gap-leveraging-mind-maps-self-assessments-to-develop-a-personal-training-plan-8210137f3f92)
 
-### 🎙️ PODCAST
+### <a name="podcast"></a> 🎙️ PODCAST
 - [Malicious Life](https://malicious.life/)
 - [DARKNET DIARIES](https://darknetdiaries.com/)
 - [The Privacy, Security, and OSINT Show](https://inteltechniques.com/podcast.html)
@@ -20,7 +42,7 @@
 - [SANS Daily Stormcast](https://isc.sans.edu/podcast.html)
 - [CISO Series: Headlines, Why Discussions](https://podcasts.google.com/feed/aHR0cHM6Ly9jaXNvc2VyaWVzLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ9sEGahgKEwi4lNrr2pj0AhUAAAAAHQAAAAAQthA)
 
-### 📰 SECURITY BLOGS/NEWS
+### <a name="news"></a> 📰 SECURITY NEWS
 - [ZDNET](https://www.zdnet.com/)
 - [Bleeping Computer](https://www.bleepingcomputer.com/)
 - [Cyber Scoop](https://www.cyberscoop.com/)
@@ -30,7 +52,7 @@
 - [Cyber News](https://cybernews.com/)
 - [The Daily Sqing](https://portswigger.net/daily-swig)
 
-#### 📝 BLOGS
+### <a name="blogs"></a> 📝 BLOGS
 - [Dawid Bałut](https://dawidbalut.com/) 🇵🇱
 - [CyberWatch](https://whitehatcheryl.com/)
 - [threathuntergir](https://threathuntergirl.com/?blog)
@@ -50,7 +72,7 @@
 - [You should turn off autofill in your password manager](https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY)
 - [Matt's DFIR Blog](https://mgreen27.github.io/)
 
-### 📺 YouTube
+### <a name="youtube"></a> 📺 YouTube
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
 - [HackerSploit](https://www.youtube.com/c/HackerSploit)
 - [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) - security tranings
@@ -76,7 +98,7 @@ Polish:
 - [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/videos) 🇵🇱
 - [Sekurak](https://www.youtube.com/c/SekurakTV/videos) 🇵🇱
 
-### ♟️ LEARN CYBERSECURITY (CTFs)
+### <a name="ctf"></a> ♟️ LEARN CYBERSECURITY (CTFs)
 - [Blue Team Labs](https://blueteamlabs.online/)
 - [Cyber defenders](https://cyberdefenders.org/)
 - [CTF Learn](https://ctflearn.com/)
@@ -88,36 +110,36 @@ Polish:
 - [Hacking Loops](https://www.hackingloops.com/)
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
 
-### 🟦 POWERSHELL
+### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
 - [Learn PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
 - [Getting Started with PowerShell 3.0](https://channel9.msdn.com/Series/GetStartedPowerShell3)
 - [The Guide to Learning PowerShell](https://www.idera.com/resource-center/whitepapers/powershell-ebook) - ebook
 - [PowerShell Magazine](https://powershellmagazine.com/)
 
-### 🧪 LEARN SQL 
+### <a name="sql"></a> 🧪 LEARN SQL 
 - [SQLbolt](https://sqlbolt.com/)
 - [PGEXERCISE](https://pgexercises.com/questions/basic/)
 - [SQL teaching](https://www.sqlteaching.com/)
 - [KingLab](https://mystery.knightlab.com/)
 
-### *️⃣ REGEX
+### <a name="regex"></a> *️⃣ REGEX
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
 - [Regex101](https://regex101.com/)
 
-### ◀️ LEARN REVERSE ENGINEERING
+### <a name="reverse"></a> ◀️ LEARN REVERSE ENGINEERING
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#1)
 
-### 🐧 LEARN LINUX 
+### <a name="linux"></a> 🐧 LEARN LINUX 
 - [bandit](https://overthewire.org/wargames/bandit/)
 - [linuxjourney](https://linuxjourney.com/)
 - [cyberciti](https://www.cyberciti.biz/faq/category/linux/)
 
-### ⌨️ BASH
+### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
 - [Bash introduction for hackers part 2](https://hakin9.org/bash-introduction-for-hackers-part-2/)
 
-### ♻️ ADDITIONAL COURSES (free)
+### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
 - [ActiveCountermeasures](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/)
 - [Wireshark Tutorial](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
@@ -125,18 +147,18 @@ Polish:
 - [Incident Response class](https://samsclass.info/152/IR2020.htm)
 - [Elastic for Security Analysts. Part 1: Searching Strings](https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/)
 
-### ⛳ RECOMMENDED TRAINING COURSES 
+### <a name="traning"></a> ⛳ RECOMMENDED TRAINING COURSES 
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
 - [Practical Threat Hunting](https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/)
 - [SOC Core Skills w/ John Strand](https://wildwesthackinfest.com/antisyphon//soc-core-skills-john-strand/)
 - [Getting Started in Security with BHIS and MITRE ATT&CK](https://wildwesthackinfest.com/antisyphon/getting-started-in-security-with-bhis-and-mitre-attck-john-strand/)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/specializations/google-data-analytics)
 
-### 🔥 LEARN PENTEST 
+### <a name="pentest"></a> 🔥 LEARN PENTEST 
 - [Zero to Hero](https://www.thecybermentor.com/zero-to-hero-pentesting)
 - [SHODAN for Penetration Testers](https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 
-### 🕷️ MALWARE
+### <a name="malware"></a> 🕷️ MALWARE
 - [maldefense](https://www.maldefense.com/)
 - [malware-traffic-analysis](https://www.malware-traffic-analysis.net/)
 - [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
@@ -144,10 +166,10 @@ Polish:
 - [Malware Wiki](https://malwiki.org/index.php?title=Main_Page)
 - [Malicious Life Podcast](https://malicious.life/)
 
-### ⚠️ INCIDENT RESPONSE
+### <a name="IR"></a> ⚠️ INCIDENT RESPONSE
 - [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/)
 
-### 🕵️ DFIR
+### <a name="DFIR"></a> 🕵️ DFIR
 - [Playbooks](https://www.incidentresponse.com/playbooks/)
 - [SNAS youtube](https://www.youtube.com/user/robtlee73)
 - [Start.me Digital Forensics](https://start.me/p/ekq7Al/digital-forensics)
@@ -158,12 +180,15 @@ Polish:
 - http://www.heaventools.com/overview.htm
 - [regshot](https://sourceforge.net/projects/regshot/)
 
-### 📊 THREAT HUNTING
+### <a name="TH"></a> 📊 THREAT HUNTING
 - [CTI 101 Student Handout](https://klrgrz.medium.com/cti-101-student-handout-42c1441d3519)
 - [Linux Threat hunting part 1](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-i-dd11b156cb7d)
 - [Linux Threat hunting part 2](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-ii-69484f58ac92)
 
-### 📚 RECOMMENDED BOOKS
+### <a name="vuln"></a> 🩹 VULNERABILITY MANAGEMENT
+- [CVE Trends](https://cvetrends.com/)
+
+### <a name="books"></a> 📚 RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
 - [Blue Team Handbook: Incident Response](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_2?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-2)
 - [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
