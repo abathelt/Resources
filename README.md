@@ -22,6 +22,7 @@
 - 🕵️ [DFIR](#DFIR)
 - 📊 [THREAT HUNTING](#TH)
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
+- ⚙️ [KUBERNETES](#kube)
 - 📚 [RECOMMENDED BOOKS](#books)
 
 ### <a name="career"></a> 📄 CAREER/RESUME/LINKEDIN
@@ -188,6 +189,10 @@ Polish:
 
 ### <a name="vuln"></a> 🩹 VULNERABILITY MANAGEMENT
 - [CVE Trends](https://cvetrends.com/)
+
+### <a name="kube"></a> ⚙️ KUBERNETES
+Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
+- [Understanding Kubernetes](https://www.linode.com/content/kubernetes-guide/)
 
 ### <a name="books"></a> 📚 RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
