@@ -14,6 +14,7 @@
 - ◀️ [LEARN REVERSE ENGINEERING](#reverse) 
 - 🐧 [LEARN LINUX](#linux) 
 - ⌨️ [BASH](#bash)
+- 🐍 [PYTHON](#python)
 - ♻️ [ADDITIONAL COURSES (free)](#courses)
 - ⛳ [RECOMMENDED TRAINING COURSES](#traning)
 - 🔥 [LEARN PENTEST](#pentest)
@@ -140,6 +141,11 @@ Polish:
 ### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
 - [Bash introduction for hackers part 2](https://hakin9.org/bash-introduction-for-hackers-part-2/)
+
+### <a name="python"></a> 🐍 PYTHON
+- [Python for everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - free video course series that teaches the basics of using Python 3.
+- [18 Python one-liners that will speed up your coding process.](https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md)
+- [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
