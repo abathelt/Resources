@@ -126,6 +126,7 @@ Polish:
 ### <a name="regex"></a> *️⃣ REGEX
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
 - [Regex101](https://regex101.com/)
+- [Regex Learn](https://regexlearn.com/)
 
 ### <a name="reverse"></a> ◀️ LEARN REVERSE ENGINEERING
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#1)
