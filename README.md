@@ -26,6 +26,7 @@
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
 - ⚙️ [KUBERNETES](#kube)
 - 📚 [RECOMMENDED BOOKS](#books)
+- 👩‍🎓 [CTF/Learning](#ctf-challange)
 
 ### <a name="career"></a> 📄 CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
@@ -135,9 +136,10 @@ Polish:
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#1)
 
 ### <a name="linux"></a> 🐧 LEARN LINUX 
-- [bandit](https://overthewire.org/wargames/bandit/)
+- [Bandit](https://overthewire.org/wargames/bandit/) - is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 - [linuxjourney](https://linuxjourney.com/)
-- [cyberciti](https://www.cyberciti.biz/faq/category/linux/)
+- [Cyberciti](https://www.cyberciti.biz/faq/category/linux/)
+- [The Complete Linux for Ethical Hackers Course for 2019](https://www.youtube.com/watch?v=rZsJieGi8os&ab_channel=TheCyberMentor)
 
 ### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
@@ -157,8 +159,8 @@ Polish:
 - [Buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
-- [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
-- [ActiveCountermeasures](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/)
+- [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - Trainings for Cybersecurity Specialists
+- [ActiveCountermeasures](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/) - Cyber Threat Hunting training course
 - [Wireshark Tutorial](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
 - [Cuckoosegg training](https://chrissanders.org/training/cuckoosegg/)
 - [Incident Response class](https://samsclass.info/152/IR2020.htm)
@@ -172,8 +174,10 @@ Polish:
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/specializations/google-data-analytics)
 
 ### <a name="pentest"></a> 🔥 LEARN PENTEST 
-- [Zero to Hero](https://www.thecybermentor.com/zero-to-hero-pentesting)
+- [Zero to Hero Pentesting](https://www.thecybermentor.com/zero-to-hero-pentesting)
 - [SHODAN for Penetration Testers](https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
+- [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)](https://www.youtube.com/watch?v=WnN6dbos5u8&ab_channel=TheCyberMentor) - 15 h course for free
+- [Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 
 ### <a name="malware"></a> 🕷️ MALWARE
 - [maldefense](https://www.maldefense.com/)
@@ -216,3 +220,12 @@ Is an open-source container-orchestration system for automating computer applica
 - [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
 - [Malware Analyst's Cookbook](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/ref=sr_1_5?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-5)
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=sr_1_2?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-2)
+
+#### <a name="ctf-challange"></a>👩‍🎓 CTF/Learning
+- [Blue Team Labs](https://blueteamlabs.online/)
+- [Cyber Defenders](https://cyberdefenders.org/)
+- [CTF learn](https://ctflearn.com/)
+- [Hacker101](https://www.hacker101.com/)
+- [Try Hack me](https://tryhackme.com/)
+- [Hack the Box](https://www.hackthebox.eu/)
+- [VulnHub](https://www.vulnhub.com/)
