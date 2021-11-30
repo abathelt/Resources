@@ -15,7 +15,7 @@
 - 🐧 [LEARN LINUX](#linux) 
 - ⌨️ [BASH](#bash)
 - 🐍 [PYTHON](#python)
-- [OSINT](#osint)
+- 👁️‍🗨️ [OSINT](#osint)
 - ♻️ [ADDITIONAL COURSES (free)](#courses)
 - ⛳ [RECOMMENDED TRAINING COURSES](#traning)
 - 🔥 [LEARN PENTEST](#pentest)
@@ -148,8 +148,8 @@ Polish:
 - [18 Python one-liners that will speed up your coding process.](https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md)
 - [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-### <a name="osint"></a> OSINT
-- []()
+### <a name="osint"></a> 👁️‍🗨️ OSINT
+- [OSINT tips - missing person (Trace Lab)](https://twitter.com/search?q=from%3Ajakecreps++%22tip%22&src=typed_query&f=live)
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
