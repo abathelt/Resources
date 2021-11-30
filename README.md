@@ -226,6 +226,6 @@ Is an open-source container-orchestration system for automating computer applica
 - [Cyber Defenders](https://cyberdefenders.org/)
 - [CTF learn](https://ctflearn.com/)
 - [Hacker101](https://www.hacker101.com/)
-- [Try Hack me](https://tryhackme.com/)
-- [Hack the Box](https://www.hackthebox.eu/)
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://www.hackthebox.eu/)
 - [VulnHub](https://www.vulnhub.com/)
