@@ -151,12 +151,23 @@ Polish:
 - [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
+- [OSINT Framework](https://osintframework.com/)
+- [OSINTCurious](OSINTCurio.us) - great tips related to OSINT, they have great podcast!
+- [Tips and Tricks on Reverse Image Searches](https://osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/)
 - [OSINT tips - missing person (Trace Lab)](https://twitter.com/search?q=from%3Ajakecreps++%22tip%22&src=typed_query&f=live)
 - [Trace Lab OSINT Search Party CTF Contestant Guide](https://download.tracelabs.org/Trace-Labs-OSINT-Search-Party-CTF-Contestant-Guide_v1.1.pdf)
 - [Search Paty writeups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)
+- [OSINT – jakie informacje o sobie można znaleźć w Internecie](https://www.youtube.com/watch?v=Nk8jQhRFcBg&ab_channel=KacperSzurek) 🇵🇱
+
+#### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Command line tool to search usernames across social networks
 - [Buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
+- [Face Depixelizer](https://github.com/tg-bomze/Face-Depixelizer)
+- [Tinyeye](https://tineye.com/)
+- [Pimeye](https://pimeyes.com/en)
+- [Sync Me](https://sync.me/)
+- [Shodan](https://www.shodan.io/)
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - Trainings for Cybersecurity Specialists
