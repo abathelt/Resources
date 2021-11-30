@@ -56,6 +56,7 @@
 - [The Daily Sqing](https://portswigger.net/daily-swig)
 
 ### <a name="blogs"></a> 📝 BLOGS
+- [The Book of Secret Knowledge ](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news-toc) - collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 - [Dawid Bałut](https://dawidbalut.com/) 🇵🇱
 - [CyberWatch](https://whitehatcheryl.com/)
 - [threathuntergir](https://threathuntergirl.com/?blog)
@@ -102,6 +103,7 @@ Polish:
 - [Sekurak](https://www.youtube.com/c/SekurakTV/videos) 🇵🇱
 
 ### <a name="ctf"></a> ♟️ CTF/Learning
+- [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [Blue Team Labs](https://blueteamlabs.online/)
 - [Cyber defenders](https://cyberdefenders.org/)
 - [CTF Learn](https://ctflearn.com/)
@@ -213,6 +215,7 @@ Polish:
 - [regshot](https://sourceforge.net/projects/regshot/)
 
 ### <a name="TH"></a> 📊 THREAT HUNTING
+- [CyberChef](https://gchq.github.io/CyberChef/) - web app for encryption, encoding, compression and data analysis
 - [CTI 101 Student Handout](https://klrgrz.medium.com/cti-101-student-handout-42c1441d3519)
 - [Linux Threat hunting part 1](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-i-dd11b156cb7d)
 - [Linux Threat hunting part 2](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-ii-69484f58ac92)
