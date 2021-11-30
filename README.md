@@ -152,6 +152,9 @@ Polish:
 - [OSINT tips - missing person (Trace Lab)](https://twitter.com/search?q=from%3Ajakecreps++%22tip%22&src=typed_query&f=live)
 - [Trace Lab OSINT Search Party CTF Contestant Guide](https://download.tracelabs.org/Trace-Labs-OSINT-Search-Party-CTF-Contestant-Guide_v1.1.pdf)
 - [Search Paty writeups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Command line tool to search usernames across social networks
+- [Buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
