@@ -15,6 +15,7 @@
 - 🐧 [LEARN LINUX](#linux) 
 - ⌨️ [BASH](#bash)
 - 🐍 [PYTHON](#python)
+- [OSINT](#osint)
 - ♻️ [ADDITIONAL COURSES (free)](#courses)
 - ⛳ [RECOMMENDED TRAINING COURSES](#traning)
 - 🔥 [LEARN PENTEST](#pentest)
@@ -146,6 +147,9 @@ Polish:
 - [Python for everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - free video course series that teaches the basics of using Python 3.
 - [18 Python one-liners that will speed up your coding process.](https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md)
 - [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+
+### <a name="osint"></a> OSINT
+- []()
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
