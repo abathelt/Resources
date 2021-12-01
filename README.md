@@ -84,6 +84,9 @@
 - [STÖK](https://www.youtube.com/c/STOKfredrik) - Bug hunting
 - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) - hacking, OSINT
 - [BlackPerl](https://www.youtube.com/c/BlackPerl)
+- [InsiderPhD](https://www.youtube.com/c/InsiderPhD)
+- [DC CyberSec](https://www.youtube.com/c/DCcybersec/featured)
+- [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [Blue Team Village](https://www.youtube.com/c/BlueTeamVillage/videos)
 - [Red Team Village](https://www.youtube.com/c/RedTeamVillage/videos)
 - [The OSINT Curious Project](https://www.youtube.com/c/TheOSINTCuriousProject)
@@ -191,6 +194,7 @@ Polish:
 - [SHODAN for Penetration Testers](https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)](https://www.youtube.com/watch?v=WnN6dbos5u8&ab_channel=TheCyberMentor) - 15 h course for free
 - [Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+- [Free Password Hash Cracker](https://crackstation.net/)
 
 ### <a name="malware"></a> 🕷️ MALWARE
 - [maldefense](https://www.maldefense.com/)
