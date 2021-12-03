@@ -159,9 +159,11 @@ Polish:
 - [OSINT Framework](https://osintframework.com/)
 - [OSINTCurious](OSINTCurio.us) - great tips related to OSINT, they have great podcast!
 - [Tips and Tricks on Reverse Image Searches](https://osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/)
+- [The Ultimate Beginner's Guide to OSINT](https://www.osint-jobs.com/post/the-ultimate-beginners-guide-to-osint)
 - [OSINT tips - missing person (Trace Lab)](https://twitter.com/search?q=from%3Ajakecreps++%22tip%22&src=typed_query&f=live)
 - [Trace Lab OSINT Search Party CTF Contestant Guide](https://download.tracelabs.org/Trace-Labs-OSINT-Search-Party-CTF-Contestant-Guide_v1.1.pdf)
 - [Search Paty writeups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)
+- [OSINT Protips](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/OSINT-Protips.md)
 - [OSINT – jakie informacje o sobie można znaleźć w Internecie](https://www.youtube.com/watch?v=Nk8jQhRFcBg&ab_channel=KacperSzurek) 🇵🇱
 
 #### Tools
