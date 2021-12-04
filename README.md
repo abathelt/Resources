@@ -250,3 +250,5 @@ Is an open-source container-orchestration system for automating computer applica
 - [Mindmup](https://www.mindmup.com/) - create your mindmap
 - [Forest](https://www.forestapp.cc/) - Stay focused be present (pomodoro technique)
 - [Postman](https://www.postman.com/api-platform/api-testing/) - API Testing
+- [Stackedit](https://stackedit.io/app#) - In-browser Markdown editor
+- [Canva](https://www.canva.com/) - graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. 
