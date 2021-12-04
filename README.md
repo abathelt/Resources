@@ -46,7 +46,7 @@
 - [SANS Daily Stormcast](https://isc.sans.edu/podcast.html)
 - [CISO Series: Headlines, Why Discussions](https://podcasts.google.com/feed/aHR0cHM6Ly9jaXNvc2VyaWVzLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ9sEGahgKEwi4lNrr2pj0AhUAAAAAHQAAAAAQthA)
 
-### <a name="news"></a> 📰 SECURITY NEWS
+### <a name="news"></a> 📰 SECURITY/TECH  NEWS
 - [ZDNET](https://www.zdnet.com/)
 - [Bleeping Computer](https://www.bleepingcomputer.com/)
 - [Cyber Scoop](https://www.cyberscoop.com/)
@@ -54,6 +54,7 @@
 - [Tech Beacon](https://techbeacon.com/security)
 - [The Cyber Post](https://thecyberpost.com/)
 - [Cyber News](https://cybernews.com/)
+- [TechURLs](https://techurls.com/)
 - [The Daily Sqing](https://portswigger.net/daily-swig)
 
 ### <a name="blogs"></a> 📝 BLOGS
@@ -246,3 +247,4 @@ Is an open-source container-orchestration system for automating computer applica
 - [Sound of Text](https://soundoftext.com/) - makes a sound of the text you wirte
 - [Rambox](https://rambox.app/#home) - the best way to organize your workspace
 - [Mindmup](https://www.mindmup.com/) - create your mindmap
+- [Forest](https://www.forestapp.cc/) - Stay focused be present (pomodoro technique)
