@@ -133,6 +133,7 @@ Polish:
 - [PGEXERCISE](https://pgexercises.com/questions/basic/)
 - [SQL teaching](https://www.sqlteaching.com/)
 - [KingLab](https://mystery.knightlab.com/)
+- [DB designer](https://www.dbdesigner.net/) - Online Database Schema Design and Modeling Tool
 
 ### <a name="regex"></a> *️⃣ REGEX
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
@@ -248,3 +249,4 @@ Is an open-source container-orchestration system for automating computer applica
 - [Rambox](https://rambox.app/#home) - the best way to organize your workspace
 - [Mindmup](https://www.mindmup.com/) - create your mindmap
 - [Forest](https://www.forestapp.cc/) - Stay focused be present (pomodoro technique)
+- [Postman](https://www.postman.com/api-platform/api-testing/) - API Testing
