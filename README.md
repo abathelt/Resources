@@ -26,6 +26,7 @@
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
 - ⚙️ [KUBERNETES](#kube)
 - 📚 [RECOMMENDED BOOKS](#books)
+- 💬 [OTHER](#other)
 
 ### <a name="career"></a> 📄 CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
@@ -240,3 +241,6 @@ Is an open-source container-orchestration system for automating computer applica
 - [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
 - [Malware Analyst's Cookbook](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/ref=sr_1_5?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-5)
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=sr_1_2?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-2)
+
+### <a name="other"></a> 💬 OTHER
+-[Sound of Text](https://soundoftext.com/)
