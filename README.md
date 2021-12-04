@@ -243,4 +243,6 @@ Is an open-source container-orchestration system for automating computer applica
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=sr_1_2?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-2)
 
 ### <a name="other"></a> 💬 OTHER
--[Sound of Text](https://soundoftext.com/)
+- [Sound of Text](https://soundoftext.com/) - makes a sound of the text you wirte
+- [Rambox](https://rambox.app/#home) - the best way to organize your workspace
+- [Mindmup](https://www.mindmup.com/) - create your mindmap
