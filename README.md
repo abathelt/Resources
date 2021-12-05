@@ -58,6 +58,7 @@
 - [The Daily Sqing](https://portswigger.net/daily-swig)
 
 ### <a name="blogs"></a> 📝 BLOGS
+- [ADSecurity](https://adsecurity.org/)
 - [The Book of Secret Knowledge ](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news-toc) - collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 - [Dawid Bałut](https://dawidbalut.com/) 🇵🇱
 - [CyberWatch](https://whitehatcheryl.com/)
