@@ -100,6 +100,7 @@
 - [Nicolas Moy](https://www.youtube.com/c/NicolasMoy/videos) - Senior Cloud Security Instructor
 - [Thomas Maurer](https://www.youtube.com/c/ThomasMaurerCloud) - Azure cloud
 - [webpwnized](https://www.youtube.com/c/webpwnized/videos) - web, mobile and network penetration testing
+- [Andy Li](https://www.youtube.com/channel/UCKTs4jCh9yLbFfZHntSairQ) - pentesting journey
 Polish:
 - [Kacper Szczurek](https://www.youtube.com/c/KacperSzurek) 🇵🇱
 - [Maciej Kofel](https://www.youtube.com/c/MaciejKofel/videos) 🇵🇱
