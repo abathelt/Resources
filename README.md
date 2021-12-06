@@ -259,4 +259,4 @@ Is an open-source container-orchestration system for automating computer applica
 - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - shows a list of the currently active processes, including the names of their owning accounts
 - [WinSCP](https://winscp.net/eng/index.php) - File Manager
 - [Putty](https://www.putty.org/) - an SSH and telnet client
-- 
+- [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) - to write a raw disk image to a removable device or backup a removable device to a raw image file. 
