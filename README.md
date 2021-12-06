@@ -233,6 +233,7 @@ Polish:
 
 ### <a name="vuln"></a> 🩹 VULNERABILITY MANAGEMENT
 - [CVE Trends](https://cvetrends.com/)
+- [RouterSploit](https://github.com/threat9/routersploit)
 
 ### <a name="kube"></a> ⚙️ KUBERNETES
 Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
