@@ -254,3 +254,9 @@ Is an open-source container-orchestration system for automating computer applica
 - [Postman](https://www.postman.com/api-platform/api-testing/) - API Testing
 - [Stackedit](https://stackedit.io/app#) - In-browser Markdown editor
 - [Canva](https://www.canva.com/) - graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. 
+- [Ninte](https://ninite.com/) - Install and Update All Your Programs at Once
+- [BurpSuite community](https://portswigger.net/burp)
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - shows a list of the currently active processes, including the names of their owning accounts
+- [WinSCP](https://winscp.net/eng/index.php) - File Manager
+- [Putty](https://www.putty.org/) - an SSH and telnet client
+- 
