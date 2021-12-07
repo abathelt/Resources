@@ -25,6 +25,7 @@
 - 📊 [THREAT HUNTING](#TH)
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
 - ⚙️ [KUBERNETES](#kube)
+- 🕵️ [PRIVACY] (#privacy)
 - 📚 [RECOMMENDED BOOKS](#books)
 - 💬 [OTHER](#other)
 
@@ -78,6 +79,7 @@
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [You should turn off autofill in your password manager](https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY)
 - [Matt's DFIR Blog](https://mgreen27.github.io/)
+- [nixCraft](https://www.cyberciti.biz/) - for Linux fans
 
 ### <a name="youtube"></a> 📺 YouTube
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
@@ -154,6 +156,7 @@ Polish:
 - [linuxjourney](https://linuxjourney.com/)
 - [Cyberciti](https://www.cyberciti.biz/faq/category/linux/)
 - [The Complete Linux for Ethical Hackers Course for 2019](https://www.youtube.com/watch?v=rZsJieGi8os&ab_channel=TheCyberMentor)
+- [Linux ip Command Examples](https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/?fbclid=IwAR3CpswryqeFVJbzKnNxzbBUvoyql7cG2Pbbyz7gS2pOwLfSC-i2aH9Bht0)
 
 ### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
@@ -245,6 +248,10 @@ Is an open-source container-orchestration system for automating computer applica
 - [Understanding Kubernetes](https://www.linode.com/content/kubernetes-guide/) - ebook 
 - [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) - free video course
 
+## <a name="privacy"></a> 🕵️ PRIVACY 
+- [Your activity in Google](https://myactivity.google.com/myactivity?hl=pl&pli=1) - Stored Google activity data  
+- [Your activity outside of Facebook ](https://www.facebook.com/off_facebook_activity/activity_list) - a list of sites you have visited that use integration with this service. The number of sites depends mainly on whether you use Adblock.
+
 ### <a name="books"></a> 📚 RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
 - [Blue Team Handbook: Incident Response](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_2?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-2)
@@ -266,3 +273,6 @@ Is an open-source container-orchestration system for automating computer applica
 - [WinSCP](https://winscp.net/eng/index.php) - File Manager
 - [Putty](https://www.putty.org/) - an SSH and telnet client
 - [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) - to write a raw disk image to a removable device or backup a removable device to a raw image file. 
+- [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
+- [Thumbcache Viewer](https://thumbcacheviewer.github.io/) - extract thumbnail images from the thumbcache
+- [JumpListsView](https://www.nirsoft.net/utils/jump_lists_view.html) - displays the information stored by the 'Jump Lists' filename, data, event, id, size etc.
