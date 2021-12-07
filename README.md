@@ -90,17 +90,21 @@
 - [InsiderPhD](https://www.youtube.com/c/InsiderPhD)
 - [DC CyberSec](https://www.youtube.com/c/DCcybersec/featured)
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
-- [Blue Team Village](https://www.youtube.com/c/BlueTeamVillage/videos)
-- [Red Team Village](https://www.youtube.com/c/RedTeamVillage/videos)
-- [The OSINT Curious Project](https://www.youtube.com/c/TheOSINTCuriousProject)
+- [The OSINT Curious Project](https://www.youtube.com/c/TheOSINTCuriousProject) - OSINT tips
 - [Data Rescue Labs](https://www.youtube.com/c/DataRescueLabsIncMississauga) - Digital Forensic
-- [Gerald Auger - Simply Cyber](https://www.youtube.com/c/GeraldAuger/videos)
+- [Gerald Auger - Simply Cyber](https://www.youtube.com/c/GeraldAuger/videos) - cybersecurity career, interview, begginer information
 - [Neil Fox](https://www.youtube.com/c/0xf0x/videos) - Malware Analyse
 - [Cybersecurity Meg](https://www.youtube.com/c/CybersecurityMeg/videos) - Security Career
 - [Nicolas Moy](https://www.youtube.com/c/NicolasMoy/videos) - Senior Cloud Security Instructor
 - [Thomas Maurer](https://www.youtube.com/c/ThomasMaurerCloud) - Azure cloud
 - [webpwnized](https://www.youtube.com/c/webpwnized/videos) - web, mobile and network penetration testing
 - [Andy Li](https://www.youtube.com/channel/UCKTs4jCh9yLbFfZHntSairQ) - pentesting journey
+
+Conferences: 
+- [SAINTCON](https://www.youtube.com/c/SAINTCON/videos) - Security Advisory and Incident Network Team 
+- [Blue Team Village](https://www.youtube.com/c/BlueTeamVillage/videos) - Defcon village
+- [Red Team Village](https://www.youtube.com/c/RedTeamVillage/videos) - Defcon village
+
 Polish:
 - [Kacper Szczurek](https://www.youtube.com/c/KacperSzurek) 🇵🇱
 - [Maciej Kofel](https://www.youtube.com/c/MaciejKofel/videos) 🇵🇱
@@ -188,6 +192,7 @@ Polish:
 - [Cuckoosegg training](https://chrissanders.org/training/cuckoosegg/)
 - [Incident Response class](https://samsclass.info/152/IR2020.htm)
 - [Elastic for Security Analysts. Part 1: Searching Strings](https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/)
+- [CRYPTO101](https://www.crypto101.io/)
 
 ### <a name="traning"></a> ⛳ RECOMMENDED TRAINING COURSES 
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
