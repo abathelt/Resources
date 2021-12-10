@@ -46,6 +46,8 @@
 - [Cyberlaw](https://www.lawfareblog.com/topic/cyberlaw-podcast!)
 - [SANS Daily Stormcast](https://isc.sans.edu/podcast.html)
 - [CISO Series: Headlines, Why Discussions](https://podcasts.google.com/feed/aHR0cHM6Ly9jaXNvc2VyaWVzLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ9sEGahgKEwi4lNrr2pj0AhUAAAAAHQAAAAAQthA)
+- [What the Shell?](https://whattheshell.podbean.com/)
+- [Cyber Sector 7](https://cybersector7.com/)
 
 ### <a name="news"></a> 📰 SECURITY/TECH  NEWS
 - [ZDNET](https://www.zdnet.com/)
