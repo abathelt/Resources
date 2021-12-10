@@ -25,7 +25,7 @@
 - 📊 [THREAT HUNTING](#TH)
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
 - ⚙️ [KUBERNETES](#kube)
-- 🔒 [PRIVACY] (#privacy)
+- 🔒 [PRIVACY](#privacy)
 - 📚 [RECOMMENDED BOOKS](#books)
 - 💬 [OTHER](#other)
 
