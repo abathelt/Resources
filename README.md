@@ -25,7 +25,7 @@
 - 📊 [THREAT HUNTING](#TH)
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
 - ⚙️ [KUBERNETES](#kube)
-- 🕵️ [PRIVACY] (#privacy)
+- 🔒 [PRIVACY] (#privacy)
 - 📚 [RECOMMENDED BOOKS](#books)
 - 💬 [OTHER](#other)
 
@@ -230,8 +230,12 @@ Polish:
 
 #### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
-- http://www.heaventools.com/overview.htm
+- [PE Explorer](http://www.heaventools.com/overview.htm)
 - [regshot](https://sourceforge.net/projects/regshot/)
+- [ShellBags Explorer](https://www.sans.org/tools/shellbags-explorer/) - A GUI for browsing shellbags data. Handles locked files.
+- [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
+- [Thumbcache Viewer](https://thumbcacheviewer.github.io/) - extract thumbnail images from the thumbcache
+- [JumpListsView](https://www.nirsoft.net/utils/jump_lists_view.html) - displays the information stored by the 'Jump Lists' filename, data, event, id, size etc.
 
 ### <a name="TH"></a> 📊 THREAT HUNTING
 - [CyberChef](https://gchq.github.io/CyberChef/) - web app for encryption, encoding, compression and data analysis
@@ -248,7 +252,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Understanding Kubernetes](https://www.linode.com/content/kubernetes-guide/) - ebook 
 - [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) - free video course
 
-## <a name="privacy"></a> 🕵️ PRIVACY 
+### <a name="privacy"></a> 🔒 PRIVACY 
 - [Your activity in Google](https://myactivity.google.com/myactivity?hl=pl&pli=1) - Stored Google activity data  
 - [Your activity outside of Facebook ](https://www.facebook.com/off_facebook_activity/activity_list) - a list of sites you have visited that use integration with this service. The number of sites depends mainly on whether you use Adblock.
 
@@ -273,7 +277,3 @@ Is an open-source container-orchestration system for automating computer applica
 - [WinSCP](https://winscp.net/eng/index.php) - File Manager
 - [Putty](https://www.putty.org/) - an SSH and telnet client
 - [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) - to write a raw disk image to a removable device or backup a removable device to a raw image file. 
-- [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
-- [Thumbcache Viewer](https://thumbcacheviewer.github.io/) - extract thumbnail images from the thumbcache
-- [JumpListsView](https://www.nirsoft.net/utils/jump_lists_view.html) - displays the information stored by the 'Jump Lists' filename, data, event, id, size etc.
-- [ShellBags Explorer](https://www.sans.org/tools/shellbags-explorer/) - A GUI for browsing shellbags data. Handles locked files.
