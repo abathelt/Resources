@@ -63,6 +63,7 @@
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
 - [The Book of Secret Knowledge ](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news-toc) - collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
+- [SOC radar blog](https://socradar.io/blog/)
 - [Dawid Bałut](https://dawidbalut.com/) 🇵🇱
 - [CyberWatch](https://whitehatcheryl.com/)
 - [threathuntergir](https://threathuntergirl.com/?blog)
@@ -198,6 +199,7 @@ Polish:
 - [Incident Response class](https://samsclass.info/152/IR2020.htm)
 - [Elastic for Security Analysts. Part 1: Searching Strings](https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/)
 - [CRYPTO101](https://www.crypto101.io/)
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ### <a name="traning"></a> ⛳ RECOMMENDED TRAINING COURSES 
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
@@ -219,7 +221,9 @@ Polish:
 - [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
 - [exploit-db](https://www.exploit-db.com/)
 - [Malware Wiki](https://malwiki.org/index.php?title=Main_Page)
+- [How You Can Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
 - [Malicious Life Podcast](https://malicious.life/)
+- [Microsoft Defender Submit a file](https://www.microsoft.com/en-us/wdsi/filesubmission/)
 
 ### <a name="IR"></a> ⚠️ INCIDENT RESPONSE
 - [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/)
