@@ -283,3 +283,10 @@ Is an open-source container-orchestration system for automating computer applica
 - [WinSCP](https://winscp.net/eng/index.php) - File Manager
 - [Putty](https://www.putty.org/) - an SSH and telnet client
 - [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) - to write a raw disk image to a removable device or backup a removable device to a raw image file. 
+
+#### Plugins
+- [Facebook Container](https://addons.mozilla.org/pl/firefox/addon/facebook-container/) - Firefox
+- [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
+- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [AdGuard AdBlocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
