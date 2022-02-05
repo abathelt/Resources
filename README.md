@@ -5,6 +5,7 @@
 - 📄 [CAREER/RESUME/LINKEDIN](#career) 
 - 🎙️ [PODCAST](#podcast) 
 - 📰 [SECURITY NEWS](#news) 
+- 📓 [SECURITY REPORTS](#reports)
 - 📝 [BLOGS](#blogs) 
 - 📺 [YouTube](#youtube) 
 - ♟️ [CTF/Learning](#ctf) 
@@ -59,6 +60,10 @@
 - [Cyber News](https://cybernews.com/)
 - [TechURLs](https://techurls.com/)
 - [The Daily Sqing](https://portswigger.net/daily-swig)
+
+### <a name="reports"></a> 📓 SECURITY REPORTS
+- [FireEye Threat Research](https://www.fireeye.com/blog/threat-research.html)
+- [THE DFIR REPORT](https://thedfirreport.com/)
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
