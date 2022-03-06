@@ -9,6 +9,7 @@
 - 📝 [BLOGS](#blogs) 
 - 📺 [YouTube](#youtube) 
 - ♟️ [CTF/Learning](#ctf) 
+- [Active Directory](#ad)
 - 🟦 [POWERSHELL](#powershell) 
 - 🧪 [LEARN SQL](#sql) 
 - *️⃣ [REGEX](#regex) 
@@ -131,11 +132,17 @@ Polish:
 - [Hacker101](https://www.hacker101.com/)
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
+- [Pico CTF](https://play.picoctf.org/login?redirect=/login)
 - [VulnHub](https://www.vulnhub.com/)
 - [CryptoHack](https://cryptohack.org/) - learn cryptography
 - [Hack This Site](https://www.hackthissite.org/)
 - [Hacking Loops](https://www.hackingloops.com/)
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
+
+### <a name="ad"></a> ACTIVE DIRECTORY
+- [AD Security](https://adsecurity.org/)
+- [Active Directory Security](https://www.active-directory-security.com/)
+- [Harmj0y](http://harmj0y.net/blog/)
 
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
