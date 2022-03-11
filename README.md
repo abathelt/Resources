@@ -9,7 +9,7 @@
 - 📝 [BLOGS](#blogs) 
 - 📺 [YouTube](#youtube) 
 - ♟️ [CTF/Learning](#ctf) 
-- [Active Directory](#ad)
+- 🗂️ [Active Directory](#ad)
 - 🟦 [POWERSHELL](#powershell) 
 - 🧪 [LEARN SQL](#sql) 
 - *️⃣ [REGEX](#regex) 
@@ -139,7 +139,7 @@ Polish:
 - [Hacking Loops](https://www.hackingloops.com/)
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
 
-### <a name="ad"></a> ACTIVE DIRECTORY
+### <a name="ad"></a> 🗂️ ACTIVE DIRECTORY
 - [AD Security](https://adsecurity.org/)
 - [Active Directory Security](https://www.active-directory-security.com/)
 - [Harmj0y](http://harmj0y.net/blog/)
@@ -233,6 +233,7 @@ Polish:
 - [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
 - [exploit-db](https://www.exploit-db.com/)
 - [Malware Wiki](https://malwiki.org/index.php?title=Main_Page)
+- [The Zoo](https://github.com/ytisf/theZoo)
 - [How You Can Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
 - [Malicious Life Podcast](https://malicious.life/)
 - [Microsoft Defender Submit a file](https://www.microsoft.com/en-us/wdsi/filesubmission/)
