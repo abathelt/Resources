@@ -135,6 +135,7 @@ Polish:
 - [Pico CTF](https://play.picoctf.org/login?redirect=/login)
 - [VulnHub](https://www.vulnhub.com/)
 - [MemLabs](https://github.com/stuxnet999/MemLabs) - memory forensics
+- [Digital Forensic Challenge Images](https://www.ashemery.com/dfir.html) 7 DFIR challanges by Ali Hadi
 - [CryptoHack](https://cryptohack.org/) - learn cryptography
 - [Hack This Site](https://www.hackthissite.org/)
 - [Hacking Loops](https://www.hackingloops.com/)
