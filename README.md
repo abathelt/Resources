@@ -134,12 +134,14 @@ Polish:
 - [HackTheBox](https://www.hackthebox.eu/)
 - [Pico CTF](https://play.picoctf.org/login?redirect=/login)
 - [VulnHub](https://www.vulnhub.com/)
+- [MemLabs](https://github.com/stuxnet999/MemLabs) - memory forensics
 - [CryptoHack](https://cryptohack.org/) - learn cryptography
 - [Hack This Site](https://www.hackthissite.org/)
 - [Hacking Loops](https://www.hackingloops.com/)
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
 
 ### <a name="ad"></a> 🗂️ ACTIVE DIRECTORY
+- [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/) - iso for MS products
 - [AD Security](https://adsecurity.org/)
 - [Active Directory Security](https://www.active-directory-security.com/)
 - [Harmj0y](http://harmj0y.net/blog/)
@@ -246,6 +248,8 @@ Polish:
 - [SNAS youtube](https://www.youtube.com/user/robtlee73)
 - [Start.me Digital Forensics](https://start.me/p/ekq7Al/digital-forensics)
 - [Start.me Forensics](https://start.me/p/q6mw4Q/forensics)
+- [Memory Forensics with Vol(a|u)tility](https://www.youtube.com/watch?v=dB5852eAgpc&ab_channel=SecIC) - video
+- [Cobalt Strike, a Defender’s Guide](https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/)
 
 #### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
