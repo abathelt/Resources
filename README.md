@@ -188,6 +188,7 @@ Polish:
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
 - [OSINT Framework](https://osintframework.com/)
 - [OSINTCurious](OSINTCurio.us) - great tips related to OSINT, they have great podcast!
+- [OSINT Dojo](https://www.osintdojo.com/resources/)
 - [Tips and Tricks on Reverse Image Searches](https://osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/)
 - [The Ultimate Beginner's Guide to OSINT](https://www.osint-jobs.com/post/the-ultimate-beginners-guide-to-osint)
 - [OSINT tips - missing person (Trace Lab)](https://twitter.com/search?q=from%3Ajakecreps++%22tip%22&src=typed_query&f=live)
