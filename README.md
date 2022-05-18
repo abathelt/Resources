@@ -52,6 +52,7 @@
 - [Cyber Sector 7](https://cybersector7.com/)
 
 ### <a name="news"></a> 📰 SECURITY/TECH  NEWS
+- [All InfoSec News](https://allinfosecnews.com/) - The InfoSec & Cyber news aggregator
 - [ZDNET](https://www.zdnet.com/)
 - [Bleeping Computer](https://www.bleepingcomputer.com/)
 - [Cyber Scoop](https://www.cyberscoop.com/)
