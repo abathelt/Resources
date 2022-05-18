@@ -124,7 +124,7 @@ Polish:
 - [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/videos) 🇵🇱
 - [Sekurak](https://www.youtube.com/c/SekurakTV/videos) 🇵🇱
 
-### <a name="ctf"></a> ♟️ CTF/Learning
+### <a name="ctf"></a> ♟️ CTF/Challanges/Labs
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [Blue Team Labs](https://blueteamlabs.online/)
 - [Cyber defenders](https://cyberdefenders.org/)
@@ -135,6 +135,7 @@ Polish:
 - [Pico CTF](https://play.picoctf.org/login?redirect=/login)
 - [Hacktoria](https://hacktoria.com/) - OSINT CTFs
 - [VulnHub](https://www.vulnhub.com/)
+- [Command Challenge](https://cmdchallenge.com/) - challenges to write single line bash commands for the given task
 - [MemLabs](https://github.com/stuxnet999/MemLabs) - memory forensics
 - [Digital Forensic Challenge Images](https://www.ashemery.com/dfir.html) 7 DFIR challanges by Ali Hadi
 - [CryptoHack](https://cryptohack.org/) - learn cryptography
