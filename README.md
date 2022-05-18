@@ -8,7 +8,7 @@
 - 📓 [SECURITY REPORTS](#reports)
 - 📝 [BLOGS](#blogs) 
 - 📺 [YouTube](#youtube) 
-- ♟️ [CTF/Learning](#ctf) 
+- ♟️ [CTF/Challanges/Labs](#ctf) 
 - 🗂️ [Active Directory](#ad)
 - 🟦 [POWERSHELL](#powershell) 
 - 🧪 [LEARN SQL](#sql) 
