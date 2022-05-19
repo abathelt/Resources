@@ -264,6 +264,8 @@ Polish:
 - [Self-Study SOC Analyst Curriculum](https://deadpan-supply-c1d.notion.site/Self-Study-SOC-Analyst-Curriculum-da89504a2880440b9f7d688b6e195fa2)
 - [SOC Analyst Study Guide](https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7?v=493a04e2c4024a899ba23dea337d7009)
 - [Awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome information security resources
+- [The Analyst Mindset: A Cognitive Skills Assessment of Digital Forensic Analysts](https://chrissanders.org/dissertation/Sanders,%20Chris%20-%20The%20Analyst%20Mindset%20-%20A%20Cognitive%20Skills%20Assessment%20of%20Digital%20Forensic%20Analysts.pdf)
+- [The Diamond Model of Intrusion Analysis](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 
 ### <a name="IR"></a> ⚠️ INCIDENT RESPONSE
 - [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/)
@@ -275,6 +277,7 @@ Polish:
 - [Start.me Forensics](https://start.me/p/q6mw4Q/forensics)
 - [Memory Forensics with Vol(a|u)tility](https://www.youtube.com/watch?v=dB5852eAgpc&ab_channel=SecIC) - video
 - [Cobalt Strike, a Defender’s Guide](https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/)
+- [DFIR Madness](https://dfirmadness.com/) - examples of cases really useful!
 
 #### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
