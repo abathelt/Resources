@@ -22,6 +22,7 @@
 - ⛳ [RECOMMENDED TRAINING COURSES](#traning)
 - 🔥 [LEARN PENTEST](#pentest)
 - 🕷️ [MALWARE](#malware)
+- 🛡️ [INFOSEC ANALYST](#analyst)
 - ⚠️ [INCIDENT RESPONSE](#IR)
 - 🕵️ [DFIR](#DFIR)
 - 📊 [THREAT HUNTING](#TH)
@@ -37,6 +38,7 @@
 - [LinkedIn Summary](https://www.youtube.com/watch?v=5hNsdH6Y2Mg&lc=&ab_channel=JeffSu)
 - [Why Being #OpenToWork on LinkedIn is Working Against You](https://www.youtube.com/watch?v=eEfF7yROrjA&ab_channel=JordanCarroll-TheRemoteJobCoach)
 - [Mind the Gap: Leveraging mind maps & self-assessments to develop a personal training plan](https://klrgrz.medium.com/mind-the-gap-leveraging-mind-maps-self-assessments-to-develop-a-personal-training-plan-8210137f3f92)
+- [How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/)
 
 ### <a name="podcast"></a> 🎙️ PODCAST
 - [Malicious Life](https://malicious.life/)
@@ -79,6 +81,8 @@
 - [Bushidotoken](https://blog.bushidotoken.net/)
 - [The Packet Thrower](https://the-packet-thrower.com/)
 - [Darknet](https://www.darknet.org.uk/)
+- [Exploit Reversing](https://exploitreversing.com/) - Malware Analysis Series
+- [Web Breacher](https://webbreacher.com/) - posts related to OSINT
 - [Windows Commandline](https://www.windows-commandline.com/) - not updated anymore but good posts
 - [Chappell University Labs](https://www.chappell-university.com/lauras-lab) -articles related to Wireshark and packet capture
 - [Gregor Reimling](https://www.reimling.eu/) - Azure cloud ☁️
@@ -90,6 +94,7 @@
 - [You should turn off autofill in your password manager](https://marektoth.com/blog/password-managers-autofill/?fbclid=IwAR1klyRUhFFlzv_5McgYtDv1Lvqa_qkv-dekHuRImIYRJi7S3yvGUlQyxaY)
 - [Matt's DFIR Blog](https://mgreen27.github.io/)
 - [nixCraft](https://www.cyberciti.biz/) - for Linux fans
+- [Detectify](https://labs.detectify.com/)
 
 ### <a name="youtube"></a> 📺 YouTube
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
@@ -136,6 +141,7 @@ Polish:
 - [Pico CTF](https://play.picoctf.org/login?redirect=/login)
 - [Hacktoria](https://hacktoria.com/) - OSINT CTFs
 - [VulnHub](https://www.vulnhub.com/)
+- [AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 - [Command Challenge](https://cmdchallenge.com/) - challenges to write single line bash commands for the given task
 - [MemLabs](https://github.com/stuxnet999/MemLabs) - memory forensics
 - [Digital Forensic Challenge Images](https://www.ashemery.com/dfir.html) 7 DFIR challanges by Ali Hadi
@@ -209,6 +215,14 @@ Polish:
 - [Pimeye](https://pimeyes.com/en)
 - [Sync Me](https://sync.me/)
 - [Shodan](https://www.shodan.io/)
+- [Wayback machine](https://archive.org/)
+- [Archive.today](https://archive.ph/)
+- [CachedView](https://cachedview.com/) - The Google Cache Browser for any page on Internet.
+- [Cachedpages](http://www.cachedpages.com/) - Get the cached page of any URL
+- [Webcitation](https://webcitation.org/query)
+- [Timetravel](http://timetravel.mementoweb.org/)
+- [OldWeb](https://oldweb.today/)
+- [Geocities](http://geocities.com/)
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - Trainings for Cybersecurity Specialists
@@ -241,9 +255,15 @@ Polish:
 - [exploit-db](https://www.exploit-db.com/)
 - [Malware Wiki](https://malwiki.org/index.php?title=Main_Page)
 - [The Zoo](https://github.com/ytisf/theZoo)
+- [Malware Trends](https://any.run/malware-trends/)
 - [How You Can Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
 - [Malicious Life Podcast](https://malicious.life/)
 - [Microsoft Defender Submit a file](https://www.microsoft.com/en-us/wdsi/filesubmission/)
+
+### <a name="analyst"></a> 🛡️ INFOSEC ANALYST
+- [Self-Study SOC Analyst Curriculum](https://deadpan-supply-c1d.notion.site/Self-Study-SOC-Analyst-Curriculum-da89504a2880440b9f7d688b6e195fa2)
+- [SOC Analyst Study Guide](https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7?v=493a04e2c4024a899ba23dea337d7009)
+- [Awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome information security resources
 
 ### <a name="IR"></a> ⚠️ INCIDENT RESPONSE
 - [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/)
