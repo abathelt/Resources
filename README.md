@@ -305,6 +305,7 @@ Is an open-source container-orchestration system for automating computer applica
 
 ### <a name="privacy"></a> 🔒 PRIVACY 
 - [Your activity in Google](https://myactivity.google.com/myactivity?hl=pl&pli=1) - Stored Google activity data  
+- [Privacy is sexy](https://privacy.sexy/) - Enforce privacy & security on Windows and macOS
 - [Your activity outside of Facebook ](https://www.facebook.com/off_facebook_activity/activity_list) - a list of sites you have visited that use integration with this service. The number of sites depends mainly on whether you use Adblock.
 
 ### <a name="books"></a> 📚 RECOMMENDED BOOKS
