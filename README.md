@@ -95,6 +95,8 @@
 - [Matt's DFIR Blog](https://mgreen27.github.io/)
 - [nixCraft](https://www.cyberciti.biz/) - for Linux fans
 - [Detectify](https://labs.detectify.com/)
+- [Mark's Blog](https://docs.microsoft.com/en-us/archive/blogs/markrussinovich/) - blog covering topics such as Windows troubleshooting, technologies and security.
+- [Windows Blog Archive](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich)
 
 ### <a name="youtube"></a> 📺 YouTube
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
