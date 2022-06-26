@@ -13,14 +13,12 @@
 - 🟦 [POWERSHELL](#powershell) 
 - 🧪 [LEARN SQL](#sql) 
 - *️⃣ [REGEX](#regex) 
-- ◀️ [LEARN REVERSE ENGINEERING](#reverse) 
-- 🐧 [LEARN LINUX](#linux) 
+- ◀️ [REVERSE ENGINEERING](#reverse) 
+- 🐧 [LINUX](#linux) 
 - ⌨️ [BASH](#bash)
 - 🐍 [PYTHON](#python)
 - 👁️‍🗨️ [OSINT](#osint)
-- ♻️ [ADDITIONAL COURSES (free)](#courses)
-- ⛳ [RECOMMENDED TRAINING COURSES](#traning)
-- 🔥 [LEARN PENTEST](#pentest)
+- 🔥 [PENTEST](#pentest)
 - 🕷️ [MALWARE](#malware)
 - 🛡️ [INFOSEC ANALYST](#analyst)
 - ⚠️ [INCIDENT RESPONSE](#IR)
@@ -30,6 +28,8 @@
 - ⚙️ [KUBERNETES](#kube)
 - 🔒 [PRIVACY](#privacy)
 - 📚 [RECOMMENDED BOOKS](#books)
+- ⛳ [RECOMMENDED TRAINING COURSES](#traning)
+- ♻️ [ADDITIONAL COURSES (free)](#courses)
 - 💬 [OTHER](#other)
 
 ### <a name="career"></a> 📄 CAREER/RESUME/LINKEDIN
@@ -97,6 +97,9 @@
 - [Detectify](https://labs.detectify.com/)
 - [Mark's Blog](https://docs.microsoft.com/en-us/archive/blogs/markrussinovich/) - blog covering topics such as Windows troubleshooting, technologies and security.
 - [Windows Blog Archive](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich)
+- [Learn in public](https://www.swyx.io/learn-in-public/)
+- [High on coffee](https://highon.coffee/blog/)
+- [X33U](https://www.x33u.org/blog/)
 
 ### <a name="youtube"></a> 📺 YouTube
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
@@ -120,6 +123,7 @@
 - [Andy Li](https://www.youtube.com/channel/UCKTs4jCh9yLbFfZHntSairQ) - pentesting journey
 
 Conferences: 
+- [DEFCON](https://defcon.org/)
 - [SAINTCON](https://www.youtube.com/c/SAINTCON/videos) - Security Advisory and Incident Network Team 
 - [Blue Team Village](https://www.youtube.com/c/BlueTeamVillage/videos) - Defcon village
 - [Red Team Village](https://www.youtube.com/c/RedTeamVillage/videos) - Defcon village
@@ -165,7 +169,7 @@ Polish:
 - [The Guide to Learning PowerShell](https://www.idera.com/resource-center/whitepapers/powershell-ebook) - ebook
 - [PowerShell Magazine](https://powershellmagazine.com/)
 
-### <a name="sql"></a> 🧪 LEARN SQL 
+### <a name="sql"></a> 🧪 SQL 
 - [SQLbolt](https://sqlbolt.com/)
 - [PGEXERCISE](https://pgexercises.com/questions/basic/)
 - [SQL teaching](https://www.sqlteaching.com/)
@@ -177,10 +181,10 @@ Polish:
 - [Regex101](https://regex101.com/)
 - [Regex Learn](https://regexlearn.com/)
 
-### <a name="reverse"></a> ◀️ LEARN REVERSE ENGINEERING
+### <a name="reverse"></a> ◀️ REVERSE ENGINEERING
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#1)
 
-### <a name="linux"></a> 🐧 LEARN LINUX 
+### <a name="linux"></a> 🐧 LINUX 
 - [Bandit](https://overthewire.org/wargames/bandit/) - is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 - [linuxjourney](https://linuxjourney.com/)
 - [Cyberciti](https://www.cyberciti.biz/faq/category/linux/)
@@ -206,6 +210,7 @@ Polish:
 - [Trace Lab OSINT Search Party CTF Contestant Guide](https://download.tracelabs.org/Trace-Labs-OSINT-Search-Party-CTF-Contestant-Guide_v1.1.pdf)
 - [Search Paty writeups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)
 - [OSINT Protips](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/OSINT-Protips.md)
+- [Learn All the Things](https://www.learnallthethings.net/)
 - [OSINT – jakie informacje o sobie można znaleźć w Internecie](https://www.youtube.com/watch?v=Nk8jQhRFcBg&ab_channel=KacperSzurek) 🇵🇱
 
 #### Tools
@@ -243,12 +248,15 @@ Polish:
 - [Getting Started in Security with BHIS and MITRE ATT&CK](https://wildwesthackinfest.com/antisyphon/getting-started-in-security-with-bhis-and-mitre-attck-john-strand/)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/specializations/google-data-analytics)
 
-### <a name="pentest"></a> 🔥 LEARN PENTEST 
+### <a name="pentest"></a> 🔥 PENTEST 
 - [Zero to Hero Pentesting](https://www.thecybermentor.com/zero-to-hero-pentesting)
 - [SHODAN for Penetration Testers](https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)](https://www.youtube.com/watch?v=WnN6dbos5u8&ab_channel=TheCyberMentor) - 15 h course for free
 - [Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 - [Free Password Hash Cracker](https://crackstation.net/)
+- [The Journey to Try Harder: TJnull’s Preparation Guide for PWK/OSCP](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)
+- [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+- [OSCP - Links and Notes](https://www.x33u.org/blog/posts/oscp-links-and-notes/)
 
 ### <a name="malware"></a> 🕷️ MALWARE
 - [maldefense](https://www.maldefense.com/)
@@ -309,6 +317,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Your activity in Google](https://myactivity.google.com/myactivity?hl=pl&pli=1) - Stored Google activity data  
 - [Privacy is sexy](https://privacy.sexy/) - Enforce privacy & security on Windows and macOS
 - [Your activity outside of Facebook ](https://www.facebook.com/off_facebook_activity/activity_list) - a list of sites you have visited that use integration with this service. The number of sites depends mainly on whether you use Adblock.
+- [Open Source Alternative ](https://www.opensourcealternative.to/)
+- [Tutanota](https://tutanota.com/) - Secure email for everybody.
 
 ### <a name="books"></a> 📚 RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
