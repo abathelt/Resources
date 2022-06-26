@@ -240,6 +240,7 @@ Polish:
 - [Elastic for Security Analysts. Part 1: Searching Strings](https://socprime.com/blog/elastic-for-security-analysts-part-1-searching-strings/)
 - [CRYPTO101](https://www.crypto101.io/)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Code Red](https://codered.eccouncil.org/essentials-series-bundle/#pricing-plans) - Network Defense Essentials, Ethical Hacking Essentials, Digital Forensics Essentials
 
 ### <a name="traning"></a> ⛳ RECOMMENDED TRAINING COURSES 
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
