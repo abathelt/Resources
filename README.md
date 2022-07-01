@@ -100,6 +100,7 @@
 - [Learn in public](https://www.swyx.io/learn-in-public/)
 - [High on coffee](https://highon.coffee/blog/)
 - [X33U](https://www.x33u.org/blog/)
+- [OpenSecurity](https://opensecurity.pl/) 🇵🇱
 
 ### <a name="youtube"></a> 📺 YouTube
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
