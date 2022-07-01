@@ -17,6 +17,7 @@
 - 🐧 [LINUX](#linux) 
 - ⌨️ [BASH](#bash)
 - 🐍 [PYTHON](#python)
+- 🐟 [Docker](#docker)
 - 👁️‍🗨️ [OSINT](#osint)
 - 🔥 [PENTEST](#pentest)
 - 🕷️ [MALWARE](#malware)
@@ -200,6 +201,15 @@ Polish:
 - [Python for everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - free video course series that teaches the basics of using Python 3.
 - [18 Python one-liners that will speed up your coding process.](https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md)
 - [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+- [Python Beginners](https://python-adv-web-apps.readthedocs.io/en/latest/index.html)
+- [Automate Your Life with Python](https://www.freecodecamp.org/news/automate-your-life-with-python/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+### <a name="docker"></a> 🐟 DOCKER
+- [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
+- [Top 8 Docker Best Practices for using Docker in Production](https://www.youtube.com/watch?v=8vXoMqWgbQQ&ab_channel=TechWorldwithNana)
+- [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh)
+- [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana)
 
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
 - [OSINT Framework](https://osintframework.com/)
