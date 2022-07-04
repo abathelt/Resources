@@ -17,7 +17,7 @@
 - 🐧 [LINUX](#linux) 
 - ⌨️ [BASH](#bash)
 - 🐍 [PYTHON](#python)
-- 🐟 [Docker](#docker)
+- 🐟 [DOCKER](#docker)
 - 👁️‍🗨️ [OSINT](#osint)
 - 🔥 [PENTEST](#pentest)
 - 🕷️ [MALWARE](#malware)
@@ -28,6 +28,7 @@
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
 - ⚙️ [KUBERNETES](#kube)
 - 🔒 [PRIVACY](#privacy)
+- 🌐 [NETWORK](#network)
 - 📚 [RECOMMENDED BOOKS](#books)
 - ⛳ [RECOMMENDED TRAINING COURSES](#traning)
 - ♻️ [ADDITIONAL COURSES (free)](#courses)
@@ -331,6 +332,10 @@ Is an open-source container-orchestration system for automating computer applica
 - [Your activity outside of Facebook ](https://www.facebook.com/off_facebook_activity/activity_list) - a list of sites you have visited that use integration with this service. The number of sites depends mainly on whether you use Adblock.
 - [Open Source Alternative ](https://www.opensourcealternative.to/)
 - [Tutanota](https://tutanota.com/) - Secure email for everybody.
+- [Privnote](https://privnote.com/) - PrivnoteSend notes that will self-destruct after being read.
+
+## <a name="network"></a> 🌐 NETWORK
+- [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 
 ### <a name="books"></a> 📚 RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
