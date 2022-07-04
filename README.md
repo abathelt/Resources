@@ -205,6 +205,7 @@ Polish:
 - [Python Beginners](https://python-adv-web-apps.readthedocs.io/en/latest/index.html)
 - [Automate Your Life with Python](https://www.freecodecamp.org/news/automate-your-life-with-python/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Python](https://networklessons.com/python)
 
 ### <a name="docker"></a> 🐟 DOCKER
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
@@ -336,6 +337,7 @@ Is an open-source container-orchestration system for automating computer applica
 
 ## <a name="network"></a> 🌐 NETWORK
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
+- [Network lessons](https://networklessons.com/cisco)
 
 ### <a name="books"></a> 📚 RECOMMENDED BOOKS
 - [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
