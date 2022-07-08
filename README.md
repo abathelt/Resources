@@ -243,6 +243,11 @@ Polish:
 - [Timetravel](http://timetravel.mementoweb.org/)
 - [OldWeb](https://oldweb.today/)
 - [Geocities](http://geocities.com/)
+- [Phonebook](https://phonebook.cz/)
+- [Email verification](https://tools.emailhippo.com/)
+- [Email-checker](https://email-checker.net/)
+- [Dehashed](https://dehashed.com/)
+- [WhatsMyName](https://whatsmyname.app/)
 
 ### <a name="courses"></a> ♻️ ADDITIONAL COURSES (free)
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - Trainings for Cybersecurity Specialists
