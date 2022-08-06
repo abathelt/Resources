@@ -281,6 +281,7 @@ Polish:
 - [The Journey to Try Harder: TJnull’s Preparation Guide for PWK/OSCP](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)
 - [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 - [OSCP - Links and Notes](https://www.x33u.org/blog/posts/oscp-links-and-notes/)
+- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security. 
 
 ### <a name="malware"></a> 🕷️ MALWARE
 - [maldefense](https://www.maldefense.com/)
