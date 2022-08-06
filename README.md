@@ -104,6 +104,9 @@
 - [High on coffee](https://highon.coffee/blog/)
 - [X33U](https://www.x33u.org/blog/)
 - [OpenSecurity](https://opensecurity.pl/) 🇵🇱
+- [hackstreetboys](https://atom.hackstreetboys.ph/) - good blog post about Privilege Escalation
+- [Become a Cyberwarrior](https://www.hackers-arise.com/getting-started)
+- [The security Noob](https://thesecuritynoob.com/)
 
 ### <a name="youtube"></a> 📺 YouTube
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
@@ -375,3 +378,6 @@ Is an open-source container-orchestration system for automating computer applica
 - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [AdGuard AdBlocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+#### OS
+- [xfce](https://www.xfce.org/) - lightweight desktop environment for UNIX-like operating systems
