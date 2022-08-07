@@ -348,7 +348,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Privnote](https://privnote.com/) - PrivnoteSend notes that will self-destruct after being read.
 - [GrapheneOS](https://grapheneos.org/) - The private and secure mobile operating system with Android app compatibility
 
-## <a name="network"></a> 🌐 NETWORK
+### <a name="network"></a> 🌐 NETWORK
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 - [Network lessons](https://networklessons.com/cisco)
 
