@@ -73,6 +73,7 @@
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
+- [harmj0y](https://blog.harmj0y.net/blog/)
 - [Jason Turley's Website](https://jasonturley.xyz/blog/) - CTF and tips
 - [The Book of Secret Knowledge ](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news-toc) - collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 - [SOC radar blog](https://socradar.io/blog/)
