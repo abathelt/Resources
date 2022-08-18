@@ -86,7 +86,7 @@ ___________________________________________
 - [The Mayor](https://medium.themayor.tech/) - hunting tips
 
 ### <a name="books"></a> 📚 BOOKS
-- [Blue Team Handbook:SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
+- [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
 - [Blue Team Handbook: Incident Response](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_2?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-2)
 - [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
 - [Malware Analyst's Cookbook](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/ref=sr_1_5?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-5)
