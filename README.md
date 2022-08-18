@@ -207,6 +207,7 @@ ________________________________________________________________________________
 ### <a name="bug"></a> 🐛 BUG BOUNTY
 - [BugBountyHunter](https://www.bugbountyhunter.com) - Learning about web application vulnerabilities
 - [BRUTE XSS](https://brutelogic.com.br/blog/)
+- [CS 253 Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) - This course is a comprehensive overview of web security. 
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [Playbooks](https://www.incidentresponse.com/playbooks/)
@@ -217,6 +218,7 @@ ________________________________________________________________________________
 - [Cobalt Strike, a Defender’s Guide](https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/)
 - [DFIR Madness](https://dfirmadness.com/) - examples of cases really useful!
 - [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/)
+- [Digital Forensics Essentials (DFE)](https://codered.eccouncil.org/course/digital-forensics-essentials) - free course
 
 #### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
@@ -269,6 +271,8 @@ Is an open-source container-orchestration system for automating computer applica
 ### <a name="network"></a> 🌐 NETWORK
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 - [Network lessons](https://networklessons.com/cisco)
+- [Network Defense Essentials (NDE)](https://codered.eccouncil.org/course/network-defense-essentials) - free course
+- [Free CCNA 200-301 course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
 - [OSINT Framework](https://osintframework.com/)
@@ -317,6 +321,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 - [OSCP - Links and Notes](https://www.x33u.org/blog/posts/oscp-links-and-notes/)
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security. 
+- [Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/course/ethical-hacking-essentials) - free course
 
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
