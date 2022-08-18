@@ -210,6 +210,9 @@ ________________________________________________________________________________
 - [CS 253 Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) - This course is a comprehensive overview of web security. 
 
 ### <a name="DFIR"></a> 🕵️ DFIR
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
+- [Intro to DFIR](https://dfir-training.basistech.com/collections) - free 3 h
 - [Playbooks](https://www.incidentresponse.com/playbooks/)
 - [SNAS youtube](https://www.youtube.com/user/robtlee73)
 - [Start.me Digital Forensics](https://start.me/p/ekq7Al/digital-forensics)
@@ -312,6 +315,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [WhatsMyName](https://whatsmyname.app/)
 
 ### <a name="pentest"></a> 🔥 PENTEST 
+- [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 - [Zero to Hero Pentesting](https://www.thecybermentor.com/zero-to-hero-pentesting)
 - [SHODAN for Penetration Testers](https://defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)](https://www.youtube.com/watch?v=WnN6dbos5u8&ab_channel=TheCyberMentor) - 15 h course for free
