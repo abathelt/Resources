@@ -333,6 +333,13 @@ Is an open-source container-orchestration system for automating computer applica
 - [Tutanota](https://tutanota.com/) - Secure email for everybody.
 - [Privnote](https://privnote.com/) - PrivnoteSend notes that will self-destruct after being read.
 - [GrapheneOS](https://grapheneos.org/) - The private and secure mobile operating system with Android app compatibility
+- [Aegis Authenticator](https://getaegis.app/)
+- [Orbot: Tor for android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en&gl=US)
+- [Shelter](https://play.google.com/store/apps/details?id=net.typeblog.shelter&hl=en_IE) - Android app - is a Free and Open-Source (FOSS) app that leverages the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
+- [KeePassDX](https://www.keepassdx.com/) - android app 
+- [Briar](https://briarproject.org/) - Secure messaging, anywhere
+- [Element](https://element.io/) - Secure and independent communication, connected via Matrix
+- [OnionShare](https://onionshare.org/) - is an open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ### <a name="python"></a> 🐍 PYTHON
 - [Python for everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - free video course series that teaches the basics of using Python 3.
