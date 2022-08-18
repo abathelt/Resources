@@ -371,7 +371,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Getting Started in Security with BHIS and MITRE ATT&CK](https://wildwesthackinfest.com/antisyphon/getting-started-in-security-with-bhis-and-mitre-attck-john-strand/)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/specializations/google-data-analytics)
 
-#### FREEE
+#### FREE
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - Trainings for Cybersecurity Specialists
 - [ActiveCountermeasures](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/) - Cyber Threat Hunting training course
 - [Wireshark Tutorial](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
@@ -410,4 +410,6 @@ Is an open-source container-orchestration system for automating computer applica
 - [AdGuard AdBlocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 #### OS
+- [Kali Linux](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
+- [Pop OS](https://pop.system76.com/) - for STEM and creative professionals who use their computer as a tool to discover and create.
 - [xfce](https://www.xfce.org/) - lightweight desktop environment for UNIX-like operating systems
