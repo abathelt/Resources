@@ -205,6 +205,7 @@ ________________________________________________________________________________
 ### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
 - [Bash introduction for hackers part 2](https://hakin9.org/bash-introduction-for-hackers-part-2/)
+- [Introduction to Bash Programming by InsiderPhD](https://www.youtube.com/watch?v=qy6TaUjyKcg&ab_channel=InsiderPhD) 
 
 ### <a name="bug"></a> 🐛 BUG BOUNTY
 - [BugBountyHunter](https://www.bugbountyhunter.com) - Learning about web application vulnerabilities
@@ -357,6 +358,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [OnionShare](https://onionshare.org/) - is an open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ### <a name="python"></a> 🐍 PYTHON
+- [Python Tutorial for Beginners - Learn Python in 5 Hours](https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana) - I recommand!
 - [Python for everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - free video course series that teaches the basics of using Python 3.
 - [18 Python one-liners that will speed up your coding process.](https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md)
 - [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
