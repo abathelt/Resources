@@ -207,7 +207,10 @@ ________________________________________________________________________________
 ### <a name="bug"></a> 🐛 BUG BOUNTY
 - [BugBountyHunter](https://www.bugbountyhunter.com) - Learning about web application vulnerabilities
 - [BRUTE XSS](https://brutelogic.com.br/blog/)
+- [The Bug Hunter's Methodology Full 2-hour Training by Jason Haddix](https://www.youtube.com/watch?v=uKWu6yhnhbQ&ab_channel=RedTeamVillage)
 - [CS 253 Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) - This course is a comprehensive overview of web security. 
+- [Playlist of live bug bounty by Nahamsec](https://www.youtube.com/watch?v=MIujSpuDtFY&list=PLKAaMVNxvLmAkqBkzFaOxqs3L66z2n8LA&ab_channel=Nahamsec)
+- [Script for recon](https://github.com/Gr1mmie/sumrecon)
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
