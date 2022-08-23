@@ -378,6 +378,7 @@ Is an open-source container-orchestration system for automating computer applica
 
 ### <a name="reverse"></a> ◀️ REVERSE ENGINEERING
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#1)
+- [Nightmare](https://guyinatuxedo.github.io/index.html) - intro to binary exploitation / reverse engineering course based around ctf challenges
 
 ### <a name="sql"></a> 🧪 SQL 
 - [SQLbolt](https://sqlbolt.com/)
