@@ -44,6 +44,8 @@ ___________________________________________
 - [Why Being #OpenToWork on LinkedIn is Working Against You](https://www.youtube.com/watch?v=eEfF7yROrjA&ab_channel=JordanCarroll-TheRemoteJobCoach)
 - [Mind the Gap: Leveraging mind maps & self-assessments to develop a personal training plan](https://klrgrz.medium.com/mind-the-gap-leveraging-mind-maps-self-assessments-to-develop-a-personal-training-plan-8210137f3f92)
 - [How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/)
+- [Recovering from burnout](https://kierantie.com/a/burnout)
+- [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
