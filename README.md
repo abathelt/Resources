@@ -39,6 +39,7 @@ ___________________________________________
 
 ### <a name="career"></a> 📄 CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
+- [Certification Road Map](https://pauljerimy.com/security-certification-roadmap/)
 - [Workforce Framework for Cybersecurity](https://www.youtube.com/watch?v=oozqj7axNYM&ab_channel=CareerHackingVillage)
 - [LinkedIn Summary](https://www.youtube.com/watch?v=5hNsdH6Y2Mg&lc=&ab_channel=JeffSu)
 - [Why Being #OpenToWork on LinkedIn is Working Against You](https://www.youtube.com/watch?v=eEfF7yROrjA&ab_channel=JordanCarroll-TheRemoteJobCoach)
@@ -46,6 +47,7 @@ ___________________________________________
 - [How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/)
 - [Recovering from burnout](https://kierantie.com/a/burnout)
 - [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
+
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
@@ -333,6 +335,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [OSCP - Links and Notes](https://www.x33u.org/blog/posts/oscp-links-and-notes/)
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security. 
 - [Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/course/ethical-hacking-essentials) - free course
+- [API Security Certified Expert](https://university.apisec.ai/apisec-certified-expert) - free course by Corey Ball
 
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
