@@ -48,7 +48,6 @@ ___________________________________________
 - [Recovering from burnout](https://kierantie.com/a/burnout)
 - [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
 
-
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
 - [harmj0y](https://blog.harmj0y.net/blog/)
@@ -298,6 +297,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Search Paty writeups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)
 - [OSINT Protips](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/OSINT-Protips.md)
 - [Learn All the Things](https://www.learnallthethings.net/)
+- [UNREDACTED Magazine](https://unredactedmagazine.com/index.html) - free magazine about Privacy, Security, and OSINT
 - [OSINT – jakie informacje o sobie można znaleźć w Internecie](https://www.youtube.com/watch?v=Nk8jQhRFcBg&ab_channel=KacperSzurek) 🇵🇱
 
 #### Tools
