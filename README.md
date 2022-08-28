@@ -210,6 +210,8 @@ ________________________________________________________________________________
 - [Introduction to Bash Programming by InsiderPhD](https://www.youtube.com/watch?v=qy6TaUjyKcg&ab_channel=InsiderPhD) 
 
 ### <a name="bug"></a> 🐛 BUG BOUNTY
+- [OWASP juice Shop](https://pwning.owasp-juice.shop/) - learning about web app pentesting
+- [OWASP Testing guide](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
 - [BugBountyHunter](https://www.bugbountyhunter.com) - Learning about web application vulnerabilities
 - [BRUTE XSS](https://brutelogic.com.br/blog/)
 - [The Bug Hunter's Methodology Full 2-hour Training by Jason Haddix](https://www.youtube.com/watch?v=uKWu6yhnhbQ&ab_channel=RedTeamVillage)
