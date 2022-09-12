@@ -47,6 +47,7 @@ ___________________________________________
 - [How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/)
 - [Recovering from burnout](https://kierantie.com/a/burnout)
 - [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
+- [Cybersecurity Job Interview Simulation (Entry-level)](https://www.youtube.com/watch?v=ep9VJIzfObw&ab_channel=CyberGoldenRetriever)
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
@@ -268,6 +269,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Cyberciti](https://www.cyberciti.biz/faq/category/linux/)
 - [The Complete Linux for Ethical Hackers Course for 2019](https://www.youtube.com/watch?v=rZsJieGi8os&ab_channel=TheCyberMentor)
 - [Linux ip Command Examples](https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/?fbclid=IwAR3CpswryqeFVJbzKnNxzbBUvoyql7cG2Pbbyz7gS2pOwLfSC-i2aH9Bht0)
+- [Linux Survival](https://linuxsurvival.com/)
+- [Learng it Branching](https://learngitbranching.js.org/) - learn git
 
 ### <a name="malware"></a> 🕷️ MALWARE
 - [maldefense](https://www.maldefense.com/)
