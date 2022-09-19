@@ -14,6 +14,18 @@ Content: <br />
 - Searching for Resumes
 - Twitter
 
+### Search Engine Operators
+- "name" site:reddit.com
+- [Google](https://www.google.com/)
+- [Google Advanced Search](https://www.google.com/advanced_search)
+- [Google Search Guide](http://www.googleguide.com/print/adv_op_ref.pdf)
+- [Bing](https://www.bing.com/)
+- [Bing Search Guide](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
+- [Yandex](https://yandex.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [DuckDuckGo Search Guide](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)
+- [Baidu](http://www.baidu.com/)
+
 ### Reverse Image Searching
 - [Google Image Search](https://images.google.com)
 - [Yandex](https://yandex.com)
@@ -32,7 +44,7 @@ Content: <br />
 - [Email Checker](https://email-checker.net/validate)
 - [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en)
 
-### Hunting Breached Passwords 
+### Hunting Breached Credentials 
 - [Dehashed](https://dehashed.com/)
 - [WeLeakInfo](https://weleakinfo.to/v2/)
 - [LeakCheck](https://leakcheck.io/)
