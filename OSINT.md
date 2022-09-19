@@ -72,15 +72,15 @@ Content: <br />
 - [Voter Records](https://www.voterrecords.com)
 
 ### Hunting Phone Numbers
-TIP: you can search with emojis (phone emoji) in google. 
+- you can search with emojis (phone emoji) in google. 
 - [TrueCaller](https://www.truecaller.com/)
 - [CallerID Test](https://calleridtest.com/)
 - [Infobel](https://infobel.com/)
 
 ### Discovering Birthdates
-Search in google: <br />
-"Name" intext:"birthday"<br />
-"Name" intext:"happy birthday" site:facebook.com<br />
+- Search in google: <br />
+- "Name" intext:"birthday"<br />
+- "Name" intext:"happy birthday" site:facebook.com<br />
 
 ### Searching for Resumes
 Search in google: <br />
