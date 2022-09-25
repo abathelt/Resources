@@ -270,6 +270,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [The Complete Linux for Ethical Hackers Course for 2019](https://www.youtube.com/watch?v=rZsJieGi8os&ab_channel=TheCyberMentor)
 - [Linux ip Command Examples](https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/?fbclid=IwAR3CpswryqeFVJbzKnNxzbBUvoyql7cG2Pbbyz7gS2pOwLfSC-i2aH9Bht0)
 - [Linux Survival](https://linuxsurvival.com/)
+- [Linux command line for you and me!](https://lym.readthedocs.io/en/latest/)
 - [Learng it Branching](https://learngitbranching.js.org/) - learn git
 
 ### <a name="malware"></a> 🕷️ MALWARE
