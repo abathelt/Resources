@@ -236,22 +236,37 @@ twint -u username
 twint -u username -s WordOfInterest
 ```
 
+- Before you install below tools
+```
+nano ~/.bashrc
+
+export GOPATH=$HOME/go 
+export GOROOT=/usr/lib/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+```
+
 - [Subfinder](https://github.com/projectdiscovery/subfinder)
+```
+GO111MODULE=on go get -u -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+assetfinder tcm-sec.com
+```
 - [Assetfinder](https://github.com/tomnomnom/assetfinder)
+```
+go get -u github.com/tomnomnom/assetfinder
+assetfinder tcm-sec.com
+```
 - [httprobe](https://github.com/tomnomnom/httprobe)
+```
+go get -u github.com/tomnomnom/httprobe
+cat tesla.txt | sort -u | httprobe -s -p https:443
+```
 - [Amass](https://github.com/OWASP/Amass)
+```
+amass enum -d tcm-sec.com
+```
 - [GoWitness](https://github.com/sensepost/gowitness/wiki/Installation)
-
--  
 ```
+go get -u github.com/sensepost/gowitness
+export GO111MODULE=on
+gowitness file -f ./alive.txt -P ./pics --no-http
 ```
-
-- 
-```
-```
-
-- 
-```
-```
-
-
