@@ -2,19 +2,23 @@
 ##### Notes from the The Cyber Mentor OSINT course. <br />
 
 Content: <br />
-- Reverse Image Searching
-- Identifying Geographical Locations
-- Discovering Email Addresses
-- Hunting Breached Passwords
-- Hunting Usernames and Accounts
-- Searching for People
-- Voter Records
-- Hunting Phone Numbers
-- Discovering Birthdates
-- Searching for Resumes
-- Twitter
+- [Search Engine Operators](#SEO)
+- [Reverse Image Searching](#RIS)
+- [Identifying Geographical Locations](#IGL)
+- [Discovering Email Addresses](#DEA)
+- [Hunting Breached Credentials](#HBC)
+- [Hunting Usernames and Accounts](#HUA)
+- [Searching for People](#SfP)
+- [Voter Records](#VR)
+- [Hunting Phone Numbers](#HPN)
+- [Discovering Birthdates](#DB)
+- [Searching for Resumes](#SfR)
+- [Twitter](#T)
+- [Facebook](#FB)
+- [Instagram](#IG)
+- [Snapchat](#SN)
 
-### Search Engine Operators
+### <a name="SEO"></a>Search Engine Operators
 - "name" site:reddit.com
 - [Google](https://www.google.com/)
 - [Google Advanced Search](https://www.google.com/advanced_search)
@@ -26,17 +30,17 @@ Content: <br />
 - [DuckDuckGo Search Guide](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)
 - [Baidu](http://www.baidu.com/)
 
-### Reverse Image Searching
+### <a name="RIS"></a> Reverse Image Searching
 - [Google Image Search](https://images.google.com)
 - [Yandex](https://yandex.com)
 - [TinEye](https://tineye.com)
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi)
 
-### Identifying Geographical Locations
+### <a name="IGL"></a> Identifying Geographical Locations
 - [GeoGuessr](https://www.geoguessr.com)
 - [GeoGuessr - The Top Tips, Tricks and Techniques](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 
-### Discovering Email Addresses
+### <a name="DEA"></a>Discovering Email Addresses
 - [Hunter.io](https://hunter.io/)
 - [Phonebook.cz](https://phonebook.cz/)
 - [VoilaNorbert](https://www.voilanorbert.com/)
@@ -44,7 +48,7 @@ Content: <br />
 - [Email Checker](https://email-checker.net/validate)
 - [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en)
 
-### Hunting Breached Credentials 
+### <a name="HBC"></a> Hunting Breached Credentials 
 - [Dehashed](https://dehashed.com/)
 - [WeLeakInfo](https://weleakinfo.to/v2/)
 - [LeakCheck](https://leakcheck.io/)
@@ -52,12 +56,12 @@ Content: <br />
 - [Scylla.sh](https://scylla.sh/)
 - [HaveIBeenPwned](https://haveibeenpwned.com/)
 
-### Hunting Usernames and Accounts
+### <a name="HUA"></a>Hunting Usernames and Accounts
 - [NameChk](https://namechk.com/)
 - [WhatsMyName](https://whatsmyname.app/)
 - [NameCheckup](https://namecheckup.com/)
 
-### Searching for People
+### <a name="SfP"></a> Searching for People
 - [WhitePages](https://www.whitepages.com/)
 - [TruePeopleSearch](https://www.truepeoplesearch.com/)
 - [FastPeopleSearch](https://www.fastpeoplesearch.com/)
@@ -68,21 +72,21 @@ Content: <br />
 - [Spokeo](https://www.spokeo.com/)
 - [That'sThem](https://thatsthem.com/)
 
-### Voter Records
+### <a name="VR"></a> Voter Records
 - [Voter Records](https://www.voterrecords.com)
 
-### Hunting Phone Numbers
+### <a name="HPN"></a> Hunting Phone Numbers
 - you can search with emojis (phone emoji) in google. 
 - [TrueCaller](https://www.truecaller.com/)
 - [CallerID Test](https://calleridtest.com/)
 - [Infobel](https://infobel.com/)
 
-### Discovering Birthdates
+### <a name="DB"></a>Discovering Birthdates
 - Search in google: <br />
 - "Name" intext:"birthday"<br />
 - "Name" intext:"happy birthday" site:facebook.com<br />
 
-### Searching for Resumes
+### <a name="SfR"></a> Searching for Resumes
 Search in google: <br />
 - "Name" site:linkedin.com 
 - "Name" resume filetype:pdf 
@@ -92,7 +96,7 @@ Search in google: <br />
 - "Name" resume site:drive.google.com 
 - "Name" resume site:scribd.com 
 
-### Twitter
+### <a name="T"></a>Twitter
 - [Twitter Advanced Search](https://twitter.com/search-advanced)
 - Use hashtags
 - to:username - who replay to user
@@ -108,3 +112,19 @@ Search in google: <br />
 - [Tweetbeaver](https://tweetbeaver.com/)
 - [Spoonbill.io](http://spoonbill.io/)
 - [Tinfoleak](https://tinfoleak.com/)
+- [TweetDeck](https://tweetdeck.com/) ⭐
+
+### <a name="FB"></a> Facebook
+- [Sowdust Github](https://sowdust.github.io/fb-search/)
+- [IntelligenceX Facebook Search](https://intelx.io/tools?tab=facebook)
+- In Facebook search: photos of Mark Zuckerberg - it shows photo he post and the one people tagged him 
+- search for user ID in FB - View page source and search (ctrl+f) "userID" - this is needed for IntelligenceX Facebook Search
+
+### <a name="IG"></a> Instagram
+- [Wopita](https://wopita.com/) 
+- [Code of a Ninja](https://codeofaninja.com/tools/find-instagram-user-id/) - find user ID
+- [InstaDP](https://www.instadp.com/) - full size of the images
+- [ImgInn](https://imginn.com/) - you can download save images
+- search in Google: username site:instagram.com
+
+### <a name="SN"></a> Snapchat
