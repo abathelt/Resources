@@ -27,6 +27,7 @@ Content: <br />
 - [Building an OSINT Lab](#Lab)
 - [Tools](#Tools)
 - [Frameworks](#frame)
+- [Additional Resources](#AR)
 
 ### <a name="SEO"></a>Search Engine Operators
 - "name" site:reddit.com
@@ -294,3 +295,11 @@ show profiles
 - sn0int
 - Maltego
 - [Hunchly](https://hunch.ly) - 30 day trial, paid $129.99, runs only in Google Chrome 
+
+### <a name="AR"></a> Additional Resources
+- [TraceLabs](https://www.tracelabs.org/)
+- [Innocent Lives Foundation](https://www.innocentlivesfoundation.org/)
+- [Alethe Denis](https://twitter.com/AletheDenis)
+- [Joe Gray](https://twitter.com/C_3PJoe)
+- [IntelTechniques](https://inteltechniques.com/)
+- [OSINT Flowcharts](https://inteltechniques.com/blog/2018/03/06/updated-osint-flowcharts/)
