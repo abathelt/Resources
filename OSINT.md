@@ -195,20 +195,63 @@ Search in google: <br />
 - [TraceLabs OSINT VM Installation Guide](https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf)
 
 ### <a name="Tools"></a> Tools
-##### ExifTool
+- ExifTool
  ```
 sudo apt install libimage-exiftool-perl
 exiftool <img>
 ```
 
-##### [breach-parse](https://github.com/hmaverickadams/breach-parse)
-##### theHarvester
+- [breach-parse](https://github.com/hmaverickadams/breach-parse)
+- theHarvester
 ```
 theHarvester -d tesla.com -b google -l 500
 ./breach-parse.sh @tesla.com tesla.txt
 ```
-##### [H8mail](https://github.com/khast3x/h8mail)
+- [H8mail](https://github.com/khast3x/h8mail)
 An email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent.
 ```
 h8mail -t shark@tesla.com -bc "/opt/breach-parse/BreachCompilation/" -sk
  ```
+- Whatsmyname
+```
+whatsmyname -u thecybermentor
+```
+
+- Sherlock
+ ```
+sherlock thecybermentor
+ ```
+
+- [Phoneinfoga](https://github.com/sundowndev/phoneinfoga)
+```
+phoneinfoga scan -n 14082492815
+phoneinfoga serve -p 8080
+```
+
+- [Twint](https://github.com/twintproject/twint)
+```
+pip3 install --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+pip3 install --upgrade aiohttp_socks
+twint -u username
+twint -u username -s WordOfInterest
+```
+
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
+- [Assetfinder](https://github.com/tomnomnom/assetfinder)
+- [httprobe](https://github.com/tomnomnom/httprobe)
+- [Amass](https://github.com/OWASP/Amass)
+- [GoWitness](https://github.com/sensepost/gowitness/wiki/Installation)
+
+-  
+```
+```
+
+- 
+```
+```
+
+- 
+```
+```
+
+
