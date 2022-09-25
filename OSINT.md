@@ -1,5 +1,6 @@
 # OSINT
 ##### Notes from the The Cyber Mentor OSINT course. <br />
+https://academy.tcm-sec.com/p/osint-fundamentals <br />
 
 Content: <br />
 - [Search Engine Operators](#SEO)
@@ -17,6 +18,13 @@ Content: <br />
 - [Facebook](#FB)
 - [Instagram](#IG)
 - [Snapchat](#SN)
+- [Reddit](#R)
+- [LinkedIn](#LI)
+- [TIKTOK](#TK)
+- [Website](#Web)
+- [Hunting Business Information](#HBI)
+- [Wireless](#Wireless)
+- [Building an OSINT Lab](#Lab)
 
 ### <a name="SEO"></a>Search Engine Operators
 - "name" site:reddit.com
@@ -125,6 +133,62 @@ Search in google: <br />
 - [Code of a Ninja](https://codeofaninja.com/tools/find-instagram-user-id/) - find user ID
 - [InstaDP](https://www.instadp.com/) - full size of the images
 - [ImgInn](https://imginn.com/) - you can download save images
-- search in Google: username site:instagram.com
+- Search in Google: username site:instagram.com
 
 ### <a name="SN"></a> Snapchat
+- [Snapchat Maps](https://map.snapchat.com)
+
+### <a name="R"></a> Reddit
+- reddit.com/u/username
+- In Reddit search: username
+- In Reddit search: "username"
+- Use sort by
+- Analyze user's profile - check comment section there might be some sensitive information
+- In Google: "username" site:reddit.com
+- In Google: "username" site:reddit.com intext:searchedphrase
+
+### <a name="LI"></a> LinkedIn
+- Contact information
+- Location
+- LION - open networkers - to create a connection for fake account - A LION is a LinkedIn Open Networker – instead of connecting only with people you know, as LinkedIn recommends, LIONs connect with everybody. They'll always accept an invitation. Some even put "LION" after their name.
+
+### <a name="TK"></a> TIKTOK
+- Check image for reverse image
+- Search for historical data
+
+### <a name="Web"></a> Website
+- In Google: site:example.com name
+- [BuiltWith](https://builtwith.com/) - what the website is built in (frameworks, widgets etc)
+- [Domain Dossier](https://centralops.net/co/) - checkbox service scan (passive recon)
+- [DNSlytics](https://dnslytics.com/reverse-ip) - search for all domains which use the IP address
+- [SpyOnWeb](https://spyonweb.com/) - search for IP, domain, analytics (UA)
+- [Virus Total](https://www.virustotal.com/) - you can find UA in the datils - Google Tag Manager
+- [Visual Ping](https://visualping.io/) - how the website change over a time
+- [Back Link Watch](http://backlinkwatch.com/index.php) - looking for backlinks if the link to the website was posted somewhere else
+- [View DNS](https://viewdns.info/)
+- reddit.com/domain/example.com 
+- In Google: site:example.com -www inrul:admin
+- [Pentest-Tools Subdomain Finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain#)
+- [Spyse](https://spyse.com/)
+- [crt.sh](https://crt.sh/) - search: %.example.com
+- [Shodan](https://shodan.io)
+- In Shodan: ciy:atlanta port:3389 org:choopa
+- [Wayback Machine](https://web.archive.org/)
+- In Google: search for website, click on 3 dots next to address and pick cached if the website is not available right now. 
+
+### <a name="HBI"></a> Hunting Business Information
+- Search for badge, desk, dresscode, apps on LinkedIn 
+- When in LinkedIn the user's name is not visible, you can copy the user's title and do google search to find the person.
+- In Google: site:linkedin.com/in/ "* at Company Name" - search for people form a particular company
+- [Open Corporates](https://opencorporates.com/)
+- [AI HIT](https://www.aihitdata.com/)
+- [Indeed](https://indeed.com/) - job posting
+
+### <a name="Wireless"></a> Wireless
+- [WiGLE](https://wigle.net/) - advance search
+
+### <a name="Lab"></a> Building an OSINT Lab
+- [VMWare Workstation Player](https://www.vmware.com/ca/products/workstation-player/workstation-player-evaluation.html)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [TraceLabs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm)
+- [TraceLabs OSINT VM Installation Guide](https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf)
