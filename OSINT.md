@@ -25,6 +25,7 @@ Content: <br />
 - [Hunting Business Information](#HBI)
 - [Wireless](#Wireless)
 - [Building an OSINT Lab](#Lab)
+- [Tools](#Tools)
 
 ### <a name="SEO"></a>Search Engine Operators
 - "name" site:reddit.com
@@ -192,3 +193,22 @@ Search in google: <br />
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [TraceLabs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm)
 - [TraceLabs OSINT VM Installation Guide](https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf)
+
+### <a name="Tools"></a> Tools
+##### ExifTool
+ ```
+sudo apt install libimage-exiftool-perl
+exiftool <img>
+```
+
+##### [breach-parse](https://github.com/hmaverickadams/breach-parse)
+##### theHarvester
+```
+theHarvester -d tesla.com -b google -l 500
+./breach-parse.sh @tesla.com tesla.txt
+```
+##### [H8mail](https://github.com/khast3x/h8mail)
+An email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent.
+```
+h8mail -t shark@tesla.com -bc "/opt/breach-parse/BreachCompilation/" -sk
+ ```
