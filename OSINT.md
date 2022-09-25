@@ -26,6 +26,7 @@ Content: <br />
 - [Wireless](#Wireless)
 - [Building an OSINT Lab](#Lab)
 - [Tools](#Tools)
+- [Frameworks](#frame)
 
 ### <a name="SEO"></a>Search Engine Operators
 - "name" site:reddit.com
@@ -270,3 +271,26 @@ go get -u github.com/sensepost/gowitness
 export GO111MODULE=on
 gowitness file -f ./alive.txt -P ./pics --no-http
 ```
+
+### <a name="frame"></a> Frameworks
+- Recon-ng
+```
+marketplace search
+
+marketplace install hackertarget
+modules load hackertarget
+options set SOURCE example.com
+run
+show hosts
+
+marketplace install profiler
+modules load profiler
+info
+options set SOURCE username
+run
+show profiles
+```
+- Spiderfoot
+- sn0int
+- Maltego
+- [Hunchly](https://hunch.ly) - 30 day trial, paid $129.99, runs only in Google Chrome 
