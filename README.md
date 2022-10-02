@@ -129,6 +129,7 @@ ___________________________________________
 - [VulnHub](https://www.vulnhub.com/)
 - [War games](https://overthewire.org/wargames/) - OverTheWire community can help you to learn and practice security concepts
 - [XSS Game](https://xss-game.appspot.com/)
+- [Cybersec Labs](https://www.cyberseclabs.co.uk/)
 
 ### <a name="podcast"></a> 🎙️ PODCAST
 - [Malicious Life](https://malicious.life/)
