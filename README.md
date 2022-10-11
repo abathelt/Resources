@@ -10,6 +10,7 @@
 - 📰 [SECURITY NEWS](#news) 
 - 📓 [SECURITY REPORTS](#reports)
 - 📺 [YouTube](#youtube) 
+- 🗞️ [Newsletters](#newsletters)
 
 ___________________________________________
 
@@ -196,8 +197,12 @@ Polish:
 - [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/videos) 🇵🇱
 - [Sekurak](https://www.youtube.com/c/SekurakTV/videos) 🇵🇱
 
-
-
+### <a name="newsletters"></a> 🗞️ Newsletters
+- [this week in security](https://this.weekinsecurity.com/)
+- [Unsupervised Learning](https://danielmiessler.com/newsletter/)
+- [tl;dr sec](https://tldrsec.com/newsletter/)
+- [intigriti](https://newsletter.intigriti.com/)
+- [hackernewsletter](https://hackernewsletter.com/)
 _____________________________________________________________________________________________________
 
 ### <a name="ad"></a> 🗂️ ACTIVE DIRECTORY
