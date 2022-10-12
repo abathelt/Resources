@@ -198,11 +198,14 @@ Polish:
 - [Sekurak](https://www.youtube.com/c/SekurakTV/videos) 🇵🇱
 
 ### <a name="newsletters"></a> 🗞️ Newsletters
-- [this week in security](https://this.weekinsecurity.com/)
+- [This Week in Security](https://this.weekinsecurity.com/)
 - [Unsupervised Learning](https://danielmiessler.com/newsletter/)
 - [tl;dr sec](https://tldrsec.com/newsletter/)
-- [intigriti](https://newsletter.intigriti.com/)
-- [hackernewsletter](https://hackernewsletter.com/)
+- [Intigriti](https://newsletter.intigriti.com/)
+- [Hacker newsletter](https://hackernewsletter.com/)
+- [cybersecurityventures](https://cybersecurityventures.com/mailing-list/)
+- [Robin Oldham newsletter](https://rto.me.uk/newsletter/)
+- [Naked security](https://nakedsecurity.sophos.com/)
 _____________________________________________________________________________________________________
 
 ### <a name="ad"></a> 🗂️ ACTIVE DIRECTORY
