@@ -203,6 +203,8 @@ Polish:
 - [tl;dr sec](https://tldrsec.com/newsletter/)
 - [Intigriti](https://newsletter.intigriti.com/)
 - [Hacker newsletter](https://hackernewsletter.com/)
+- [SANS Newsletter](https://www.sans.org/newsletters/at-risk/)
+- [CISA](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new?topic_id=USDHSCISA_138)
 - [cybersecurityventures](https://cybersecurityventures.com/mailing-list/)
 - [Robin Oldham newsletter](https://rto.me.uk/newsletter/)
 - [Naked security](https://nakedsecurity.sophos.com/)
