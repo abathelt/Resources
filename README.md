@@ -317,6 +317,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [OSINT Protips](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/OSINT-Protips.md)
 - [Learn All the Things](https://www.learnallthethings.net/)
 - [UNREDACTED Magazine](https://unredactedmagazine.com/index.html) - free magazine about Privacy, Security, and OSINT
+- [Bellingcat](https://www.bellingcat.com/)
+- [Hunting Warhead](https://www.cbc.ca/listen/cbc-podcasts/387-hunting-warhead) - podcast that follows a group of journalists tracking down paedophiles and eventually a guy who ran one of the biggest paedophilia website.
 - [OSINT – jakie informacje o sobie można znaleźć w Internecie](https://www.youtube.com/watch?v=Nk8jQhRFcBg&ab_channel=KacperSzurek) 🇵🇱
 
 #### Tools
