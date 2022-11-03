@@ -436,6 +436,7 @@ Is an open-source container-orchestration system for automating computer applica
 ### <a name="vuln"></a> 🩹 VULNERABILITY MANAGEMENT
 - [CVE Trends](https://cvetrends.com/)
 - [RouterSploit](https://github.com/threat9/routersploit)
+- [Remedy Cloud](https://vulcan.io/remedy-cloud) - Search for a CVE below to see all the available fixes
 
 ### <a name="other"></a> 💬 OTHER
 - [Sound of Text](https://soundoftext.com/) - makes a sound of the text you wirte
