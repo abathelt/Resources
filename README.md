@@ -156,6 +156,9 @@ ___________________________________________
 - [Cyber News](https://cybernews.com/)
 - [TechURLs](https://techurls.com/)
 - [The Daily Sqing](https://portswigger.net/daily-swig)
+- [ASEC](https://asec.ahnlab.com/en/) - AhnLab security emergency reponse center. 
+- [IronNet](https://www.ironnet.com/blog) - Executive commentary, threat research, and analysis from the IronNet team.
+- [Zimperium](https://www.zimperium.com/blog/) 
 
 ### <a name="reports"></a> 📓 SECURITY REPORTS
 - [FireEye Threat Research](https://www.fireeye.com/blog/threat-research.html)
