@@ -325,6 +325,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Hunting Warhead](https://www.cbc.ca/listen/cbc-podcasts/387-hunting-warhead) - podcast that follows a group of journalists tracking down paedophiles and eventually a guy who ran one of the biggest paedophilia website.
 - [OSINT – jakie informacje o sobie można znaleźć w Internecie](https://www.youtube.com/watch?v=Nk8jQhRFcBg&ab_channel=KacperSzurek) 🇵🇱
 - [Delete your data from Facebook](https://www.facebook.com/contacts/removal)
+- [HandleFinder](https://www.handlefinder.com/) - find usernames across many social networks
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
