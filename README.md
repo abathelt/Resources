@@ -472,3 +472,11 @@ Is an open-source container-orchestration system for automating computer applica
 - [Kali Linux](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
 - [Pop OS](https://pop.system76.com/) - for STEM and creative professionals who use their computer as a tool to discover and create.
 - [xfce](https://www.xfce.org/) - lightweight desktop environment for UNIX-like operating systems
+
+#### Dark Web - use TOR
+- [Facebook](https://www.facebookcorewwwi.onion/)
+- [Secure Drop](http://secrdrop5wyphb5x.onion/) - It allows a platform to securely and anonymously share documents.
+- [WikiLeaks Upload](http://wlupld3ptjvsgwqw.onion/)
+- [ProtonMail](https://protonirockerxow.onion/)
+- [Shadow Wallet – Keeping Your Cryptocurrency Running](http://shadowrnzghb5zhb.onion/)
+- [Deep Web Radio](http://76qugh5bey5gum7l.onion/) - Listen to Music Anonymously, Because Why Not?
