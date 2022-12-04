@@ -289,6 +289,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Learng it Branching](https://learngitbranching.js.org/) - learn git
 
 ### <a name="malware"></a> 🕷️ MALWARE
+- [Malware Analysis In 5+ Hours](https://www.youtube.com/watch?v=qA0YcYMRWyI&ab_channel=HuskyHacks)
 - [maldefense](https://www.maldefense.com/)
 - [malware-traffic-analysis](https://www.malware-traffic-analysis.net/)
 - [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
