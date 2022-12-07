@@ -327,6 +327,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [OSINT – jakie informacje o sobie można znaleźć w Internecie](https://www.youtube.com/watch?v=Nk8jQhRFcBg&ab_channel=KacperSzurek) 🇵🇱
 - [Delete your data from Facebook](https://www.facebook.com/contacts/removal)
 - [HandleFinder](https://www.handlefinder.com/) - find usernames across many social networks
+- [Twitter Advance Searches](https://www.tweetbinder.com/blog/twitter-advanced-search/)
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
