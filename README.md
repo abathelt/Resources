@@ -91,6 +91,10 @@ ___________________________________________
 - [El Kentaro](https://medium.com/@elkentaro) - wardriving, warwalking blog
 - [The Mayor](https://medium.themayor.tech/) - hunting tips
 - [Counter Intelligence](https://counterintelligence.pl/) 🇵🇱
+- [Reversing Labs](https://blog.reversinglabs.com/blog)
+- [CISA Alerts](https://www.cisa.gov/uscert/ncas/alerts)
+- [Google Project Zero](https://googleprojectzero.blogspot.com/)
+- [Packet Storm](https://packetstormsecurity.com/) - information about exploits
 
 ### <a name="books"></a> 📚 BOOKS
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
