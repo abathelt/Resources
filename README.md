@@ -5,18 +5,18 @@
 - 📄 [CAREER/RESUME/LINKEDIN](#career) 
 - 📝 [BLOGS](#blogs)
 - 📚 [BOOKS](#books)
-- ♟️ [CTF/Challanges/Labs](#ctf) 
+- ♟️ [CTF/CHALLANGES/LABS](#ctf) 
 - 🎙️ [PODCAST](#podcast)
 - 📰 [SECURITY NEWS](#news) 
 - 📓 [SECURITY REPORTS](#reports)
-- 📺 [YouTube](#youtube) 
-- 🗞️ [Newsletters](#newsletters)
+- 📺 [YOUTUBE](#youtube) 
+- 🗞️ [NEWSLETTERS](#newsletters)
 
 ___________________________________________
 
-- 🗂️ [Active Directory](#ad)
+- 🗂️ [ACTIVE DIRECTORY](#ad)
 - ⌨️ [BASH](#bash) 
-- 🐛 [BugBounty](#bug)
+- 🐛 [BUG BOUNTY](#bug)
 - 🕵️ [DFIR](#DFIR)
 - 🐟 [DOCKER](#docker)
 - 🛡️ [INFOSEC ANALYST](#analyst)
@@ -103,7 +103,7 @@ ___________________________________________
 - [Malware Analyst's Cookbook](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/ref=sr_1_5?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-5)
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=sr_1_2?crid=17A6KY3JMD2CS&dchild=1&keywords=malware+analysis&qid=1625404377&sprefix=malware+analys%2Caps%2C258&sr=8-2)
 
-### <a name="ctf"></a> ♟️ CTF/Challanges/Labs
+### <a name="ctf"></a> ♟️ CTF/CHALLANGES/LABS
 - [AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
 - [Blue Team Labs](https://blueteamlabs.online/)
@@ -169,7 +169,7 @@ ___________________________________________
 - [FireEye Threat Research](https://www.fireeye.com/blog/threat-research.html)
 - [THE DFIR REPORT](https://thedfirreport.com/)
 
-### <a name="youtube"></a> 📺 YouTube
+### <a name="youtube"></a> 📺 YOUTUBE
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
 - [HackerSploit](https://www.youtube.com/c/HackerSploit)
 - [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) - security tranings
@@ -205,7 +205,7 @@ Polish:
 - [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/videos) 🇵🇱
 - [Sekurak](https://www.youtube.com/c/SekurakTV/videos) 🇵🇱
 
-### <a name="newsletters"></a> 🗞️ Newsletters
+### <a name="newsletters"></a> 🗞️ NEWSLETTER
 - [This Week in Security](https://this.weekinsecurity.com/)
 - [Unsupervised Learning](https://danielmiessler.com/newsletter/)
 - [tl;dr sec](https://tldrsec.com/newsletter/)
