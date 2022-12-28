@@ -95,6 +95,7 @@ ___________________________________________
 - [CISA Alerts](https://www.cisa.gov/uscert/ncas/alerts)
 - [Google Project Zero](https://googleprojectzero.blogspot.com/)
 - [Packet Storm](https://packetstormsecurity.com/) - information about exploits
+- [Cyble](https://blog.cyble.com/)
 
 ### <a name="books"></a> 📚 BOOKS
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
@@ -135,7 +136,8 @@ ___________________________________________
 - [VulnHub](https://www.vulnhub.com/)
 - [War games](https://overthewire.org/wargames/) - OverTheWire community can help you to learn and practice security concepts
 - [XSS Game](https://xss-game.appspot.com/)
-- [Cybersec Labs](https://www.cyberseclabs.co.uk/)
+- [Cybersec Labs](https://www.cyberseclabs.co.uk/) - reports, analysis of attacks, IOCs
+- [Unit42 Paoalto Networks](https://unit42.paloaltonetworks.com/) - reports, analysis of attacks, IOCs
 
 ### <a name="podcast"></a> 🎙️ PODCAST
 - [Malicious Life](https://malicious.life/)
