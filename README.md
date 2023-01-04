@@ -418,6 +418,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
 - [Regex101](https://regex101.com/)
 - [Regex Learn](https://regexlearn.com/)
+- [RegExHub](https://projects.lukehaas.me/regexhub/)
 - [Regular-Expressions](https://www.regular-expressions.info/)
 - [THM room Regular expressions](https://tryhackme.com/room/catregex)
 
