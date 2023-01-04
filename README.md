@@ -17,6 +17,7 @@ ___________________________________________
 - 🗂️ [ACTIVE DIRECTORY](#ad)
 - ⌨️ [BASH](#bash) 
 - 🐛 [BUG BOUNTY](#bug)
+- 👨‍🍳 [CyberChef](#chef)
 - 🕵️ [DFIR](#DFIR)
 - 🐟 [DOCKER](#docker)
 - 🛡️ [INFOSEC ANALYST](#analyst)
@@ -242,6 +243,12 @@ ________________________________________________________________________________
 - [Script for recon](https://github.com/Gr1mmie/sumrecon)
 - [Security Headers](https://securityheaders.com/) - scan website to check headers
 
+### <a name="chef"></a> 👨‍🍳 CYBERCHEF
+- [Cyberchef Recipes](https://github.com/mattnotmax/cyberchef-recipes)
+- [CyberChef: Example DFIR Use Cases](https://betweentwodfirns.blogspot.com/2017/06/cyberchef-example-dfir-use-cases.html)
+- [CyberChef for Security Analysts](https://www.networkdefense.io/library/cyberchef-for-security-analysts-57976/200184/about/) - paid course that I recommand
+- [Podstawy narzędzia CyberChef](https://www.youtube.com/watch?v=PsJp0BNh5A0&t=9312s&ab_channel=KacperSzurek) 🇵🇱 - free 2h+ video in polish 
+
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
@@ -411,9 +418,12 @@ Is an open-source container-orchestration system for automating computer applica
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
 - [Regex101](https://regex101.com/)
 - [Regex Learn](https://regexlearn.com/)
+- [Regular-Expressions](https://www.regular-expressions.info/)
+- [THM room Regular expressions](https://tryhackme.com/room/catregex)
 
 ### <a name="reverse"></a> ◀️ REVERSE ENGINEERING
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#1)
+- [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
 - [Nightmare](https://guyinatuxedo.github.io/index.html) - intro to binary exploitation / reverse engineering course based around ctf challenges
 
 ### <a name="sql"></a> 🧪 SQL 
