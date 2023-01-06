@@ -99,6 +99,13 @@ ___________________________________________
 - [Packet Storm](https://packetstormsecurity.com/) - information about exploits
 - [Cyble](https://blog.cyble.com/)
 - [mr eerie](https://mreerie.com/) - DFIR blog
+- [ThinkDFIR](https://thinkdfir.com/) - DFIR blog
+- [Cheeky4n6Monkey](https://cheeky4n6monkey.blogspot.com/) - Forensics
+- [The Binary Hick](https://thebinaryhick.blog/) - Thoughts From a Digital Forensic Practitioner
+- [dfir.blog](https://dfir.blog/) - Digital forensics, web browsers, visualizations, & open source tools
+- [Yogesh Khatri's forensic blog](https://www.swiftforensics.com/) - All things forensic and security related
+- [ZENA FORENSICS]https://blog.digital-forensics.it/(https://blog.digital-forensics.it/)
+- [Initialization vectors](https://abrignoni.blogspot.com/) - Digital Forensics and Incident Response. All things InfoSec
 
 ### <a name="books"></a> 📚 BOOKS
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
@@ -196,6 +203,7 @@ ___________________________________________
 - [Andy Li](https://www.youtube.com/channel/UCKTs4jCh9yLbFfZHntSairQ) - pentesting journey
 - [247 CTF](https://www.youtube.com/247CTF)
 - [DFIRScience](https://www.youtube.com/@DFIRScience) - DFIR stuff
+- [Email Forensics by Metaspike](https://www.youtube.com/@Metaspike/videos) - Forensics
 
 Conferences: 
 - [DEFCON](https://defcon.org/)
