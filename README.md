@@ -106,6 +106,12 @@ ___________________________________________
 - [Yogesh Khatri's forensic blog](https://www.swiftforensics.com/) - All things forensic and security related
 - [ZENA FORENSICS](https://blog.digital-forensics.it/)
 - [Initialization vectors](https://abrignoni.blogspot.com/) - Digital Forensics and Incident Response. All things InfoSec
+- [TheHexNinja](https://www.thehexninja.com/)
+- [forensicmike1](https://forensicmike1.com/)
+- [mac4n6](http://www.mac4n6.com/) - MacOS forensics
+- [Another Forensics Blog](https://az4n6.blogspot.com/)
+- [LinuxSleuthing](https://linuxsleuthing.blogspot.com/)
+- [Sketchymoose's Blog ](https://sketchymoose.blogspot.com/)
 
 ### <a name="books"></a> 📚 BOOKS
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
