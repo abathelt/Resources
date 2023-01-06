@@ -56,6 +56,7 @@ ___________________________________________
 - [harmj0y](https://blog.harmj0y.net/blog/)
 - [Jason Turley's Website](https://jasonturley.xyz/blog/) - CTF and tips
 - [Inversecos](https://www.inversecos.com/) - DFIR and malware analysis
+- [DFIR Science](https://dfir.science/)
 - [The Book of Secret Knowledge ](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news-toc) - collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 - [SOC radar blog](https://socradar.io/blog/)
 - [Dawid Bałut](https://dawidbalut.com/) 🇵🇱
@@ -97,6 +98,7 @@ ___________________________________________
 - [Google Project Zero](https://googleprojectzero.blogspot.com/)
 - [Packet Storm](https://packetstormsecurity.com/) - information about exploits
 - [Cyble](https://blog.cyble.com/)
+- [mr eerie](https://mreerie.com/) - DFIR blog
 
 ### <a name="books"></a> 📚 BOOKS
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
@@ -193,6 +195,7 @@ ___________________________________________
 - [webpwnized](https://www.youtube.com/c/webpwnized/videos) - web, mobile and network penetration testing
 - [Andy Li](https://www.youtube.com/channel/UCKTs4jCh9yLbFfZHntSairQ) - pentesting journey
 - [247 CTF](https://www.youtube.com/247CTF)
+- [DFIRScience](https://www.youtube.com/@DFIRScience) - DFIR stuff
 
 Conferences: 
 - [DEFCON](https://defcon.org/)
