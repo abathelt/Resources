@@ -253,6 +253,8 @@ ________________________________________________________________________________
 - [Podstawy narzędzia CyberChef](https://www.youtube.com/watch?v=PsJp0BNh5A0&t=9312s&ab_channel=KacperSzurek) 🇵🇱 - free 2h+ video in polish 
 
 ### <a name="DFIR"></a> 🕵️ DFIR
+- [The Hitchhiker's Guide to DFIR: Experiences From Beginners and Experts](https://leanpub.com/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts)
+- [Stark4n6's startme](https://start.me/p/q6mw4Q/forensics)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
 - [Intro to DFIR](https://dfir-training.basistech.com/collections) - free 3 h
@@ -265,6 +267,7 @@ ________________________________________________________________________________
 - [DFIR Madness](https://dfirmadness.com/) - examples of cases really useful!
 - [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/)
 - [Digital Forensics Essentials (DFE)](https://codered.eccouncil.org/course/digital-forensics-essentials) - free course
+- ['X-Ways Forensics' Video Clips](https://www.xwaysclips.co.uk/)
 
 #### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
