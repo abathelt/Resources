@@ -267,6 +267,7 @@ ________________________________________________________________________________
 - [Podstawy narzędzia CyberChef](https://www.youtube.com/watch?v=PsJp0BNh5A0&t=9312s&ab_channel=KacperSzurek) 🇵🇱 - free 2h+ video in polish 
 
 ### <a name="DFIR"></a> 🕵️ DFIR
+- [unfur](https://dfir.blog/unfurl/)
 - [The Hitchhiker's Guide to DFIR: Experiences From Beginners and Experts](https://leanpub.com/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts)
 - [Stark4n6's startme](https://start.me/p/q6mw4Q/forensics)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
