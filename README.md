@@ -104,7 +104,7 @@ ___________________________________________
 - [The Binary Hick](https://thebinaryhick.blog/) - Thoughts From a Digital Forensic Practitioner
 - [dfir.blog](https://dfir.blog/) - Digital forensics, web browsers, visualizations, & open source tools
 - [Yogesh Khatri's forensic blog](https://www.swiftforensics.com/) - All things forensic and security related
-- [ZENA FORENSICS](https://blog.digital-forensics.it/(https://blog.digital-forensics.it/)
+- [ZENA FORENSICS](https://blog.digital-forensics.it/)
 - [Initialization vectors](https://abrignoni.blogspot.com/) - Digital Forensics and Incident Response. All things InfoSec
 
 ### <a name="books"></a> 📚 BOOKS
