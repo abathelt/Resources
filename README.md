@@ -336,6 +336,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Microsoft Defender Submit a file](https://www.microsoft.com/en-us/wdsi/filesubmission/)
 - [Tools For Security Researchers & Malware Analyst](https://gbhackers.com/most-important-tools/)
 - [The Art of Modern Malware Analysis](https://github.com/ps-interactive/labs_modern_malware_c2) - free labs
+- [Malware Unicorn](https://malwareunicorn.org/)
 
 ### <a name="network"></a> 🌐 NETWORK
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
