@@ -402,6 +402,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security. 
 - [Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/course/ethical-hacking-essentials) - free course
 - [API Security Certified Expert](https://university.apisec.ai/apisec-certified-expert) - free course by Corey Ball
+- [Pentest Book](https://pentestbook.six2dez.com/)
 
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
