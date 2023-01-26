@@ -18,6 +18,7 @@ ___________________________________________
 - ⌨️ [BASH](#bash) 
 - 🐛 [BUG BOUNTY](#bug)
 - 👨‍🍳 [CyberChef](#chef)
+- ☁️ [CLOUD](#cloud)
 - 🕵️ [DFIR](#DFIR)
 - 🐟 [DOCKER](#docker)
 - 🛡️ [INFOSEC ANALYST](#analyst)
@@ -112,6 +113,7 @@ ___________________________________________
 - [Another Forensics Blog](https://az4n6.blogspot.com/)
 - [LinuxSleuthing](https://linuxsleuthing.blogspot.com/)
 - [Sketchymoose's Blog ](https://sketchymoose.blogspot.com/)
+- [](https://cyb3rward0g.medium.com/) - covers Azure & Sentinel
 
 ### <a name="books"></a> 📚 BOOKS
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
@@ -265,6 +267,9 @@ ________________________________________________________________________________
 - [CyberChef: Example DFIR Use Cases](https://betweentwodfirns.blogspot.com/2017/06/cyberchef-example-dfir-use-cases.html)
 - [CyberChef for Security Analysts](https://www.networkdefense.io/library/cyberchef-for-security-analysts-57976/200184/about/) - paid course that I recommand
 - [Podstawy narzędzia CyberChef](https://www.youtube.com/watch?v=PsJp0BNh5A0&t=9312s&ab_channel=KacperSzurek) 🇵🇱 - free 2h+ video in polish 
+
+### <a name="cloud"></a> ☁️ CLOUD
+- [AzureHunter](https://github.com/darkquasar/AzureHunter)
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [unfur](https://dfir.blog/unfurl/)
