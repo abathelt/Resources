@@ -54,6 +54,7 @@ ___________________________________________
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
+- [Didier Stevens](https://blog.didierstevens.com/) - malware analysis
 - [harmj0y](https://blog.harmj0y.net/blog/)
 - [Jason Turley's Website](https://jasonturley.xyz/blog/) - CTF and tips
 - [Inversecos](https://www.inversecos.com/) - DFIR and malware analysis
