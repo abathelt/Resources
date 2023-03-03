@@ -381,7 +381,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Shodan](https://www.shodan.io/)
 - [Wayback machine](https://archive.org/)
 - [Archive.today](https://archive.ph/)
-- [CachedView](https://cachedview.com/) - The Google Cache Browser for any page on Internet.
+- [CachedView](https://cachedview.com/) - The Google Cache Browser for any page on the Internet.
 - [Cachedpages](http://www.cachedpages.com/) - Get the cached page of any URL
 - [Webcitation](https://webcitation.org/query)
 - [Timetravel](http://timetravel.mementoweb.org/)
@@ -392,6 +392,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Email-checker](https://email-checker.net/)
 - [Dehashed](https://dehashed.com/)
 - [WhatsMyName](https://whatsmyname.app/)
+- [Snaptik](https://snaptik.app/pl) - download TikTok videos
 
 ### <a name="pentest"></a> 🔥 PENTEST 
 - [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
@@ -506,6 +507,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [WinSCP](https://winscp.net/eng/index.php) - File Manager
 - [Putty](https://www.putty.org/) - an SSH and telnet client
 - [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) - to write a raw disk image to a removable device or backup a removable device to a raw image file. 
+- [pfpmaker](https://pfpmaker.com/) - Create an awesome profile picture for free
 
 #### WEB BROWSER EXTENTION
 - [Mitaka](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg/related?authuser=0) - searching IP, domain, URL, hash, etc. via the context menu.
