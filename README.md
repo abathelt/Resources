@@ -305,6 +305,7 @@ ________________________________________________________________________________
 - [Top 8 Docker Best Practices for using Docker in Production](https://www.youtube.com/watch?v=8vXoMqWgbQQ&ab_channel=TechWorldwithNana)
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh)
 - [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana)
+- [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 
 ### <a name="analyst"></a> 🛡️ INFOSEC ANALYST
 - [Blue Teams Academy](https://www.blueteamsacademy.com/) - Free Training 2022
@@ -370,6 +371,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Delete your data from Facebook](https://www.facebook.com/contacts/removal)
 - [HandleFinder](https://www.handlefinder.com/) - find usernames across many social networks
 - [Twitter Advance Searches](https://www.tweetbinder.com/blog/twitter-advanced-search/)
+- [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - identify ransomware
+- [Unlisted Videos](https://unlistedvideos.com/indexm.html) - find unlisted YouTube videos
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
@@ -530,3 +533,5 @@ Is an open-source container-orchestration system for automating computer applica
 - [ProtonMail](https://protonirockerxow.onion/)
 - [Shadow Wallet – Keeping Your Cryptocurrency Running](http://shadowrnzghb5zhb.onion/)
 - [Deep Web Radio](http://76qugh5bey5gum7l.onion/) - Listen to Music Anonymously, Because Why Not?
+- [Email templates](https://tabular.email/pricing)
+- [cleanup.pictures](https://cleanup.pictures/) - remove any unwanted object on the picture
