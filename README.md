@@ -306,6 +306,7 @@ ________________________________________________________________________________
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh)
 - [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana)
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+- [Play with docker](https://training.play-with-docker.com/) - labs and tutorials that help you get hands-on experience using Docker
 
 ### <a name="analyst"></a> 🛡️ INFOSEC ANALYST
 - [Blue Teams Academy](https://www.blueteamsacademy.com/) - Free Training 2022
