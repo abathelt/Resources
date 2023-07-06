@@ -315,6 +315,7 @@ ________________________________________________________________________________
 - [Awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome information security resources
 - [The Analyst Mindset: A Cognitive Skills Assessment of Digital Forensic Analysts](https://chrissanders.org/dissertation/Sanders,%20Chris%20-%20The%20Analyst%20Mindset%20-%20A%20Cognitive%20Skills%20Assessment%20of%20Digital%20Forensic%20Analysts.pdf)
 - [The Diamond Model of Intrusion Analysis](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
+- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/) - summarizes the results of examining logs recorded in Windows upon execution of the 49 tools
 
 ### <a name="kube"></a> ⚙️ KUBERNETES
 Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
