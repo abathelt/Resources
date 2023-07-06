@@ -116,6 +116,7 @@ ___________________________________________
 - [Sketchymoose's Blog ](https://sketchymoose.blogspot.com/)
 - [cyb3rward0g](https://cyb3rward0g.medium.com/) - covers Azure & Sentinel
 - [securityinbits](https://www.securityinbits.com/) - DFIR
+- [Malwology](https://malwology.com/)
 
 ### <a name="books"></a> 📚 BOOKS
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?dchild=1&keywords=blue+team+handbook&qid=1625404261&sr=8-1)
