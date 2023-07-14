@@ -215,6 +215,8 @@ ___________________________________________
 - [247 CTF](https://www.youtube.com/247CTF)
 - [DFIRScience](https://www.youtube.com/@DFIRScience) - DFIR stuff
 - [Email Forensics by Metaspike](https://www.youtube.com/@Metaspike/videos) - Forensics
+- [Chris Greer](https://www.youtube.com/@ChrisGreer/videos) - chanell about Wireshark
+- [Practical Networking](https://www.youtube.com/@PracticalNetworking/videos) 
 
 Conferences: 
 - [DEFCON](https://defcon.org/)
