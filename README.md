@@ -319,6 +319,9 @@ ________________________________________________________________________________
 - [The Analyst Mindset: A Cognitive Skills Assessment of Digital Forensic Analysts](https://chrissanders.org/dissertation/Sanders,%20Chris%20-%20The%20Analyst%20Mindset%20-%20A%20Cognitive%20Skills%20Assessment%20of%20Digital%20Forensic%20Analysts.pdf)
 - [The Diamond Model of Intrusion Analysis](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/) - summarizes the results of examining logs recorded in Windows upon execution of the 49 tools
+- [Writing better Yara rules in 2023](https://www.hexacorn.com/blog/2023/08/26/writing-better-yara-rules-in-2023/)
+- [UNDERSTANDING RANSOMWARE-AS-A-SERVICE (RAAS) - A GUIDE](https://explore.avertium.com/resource/understanding-ransomware-as-a-service-a-guide)
+- [Demystifying DLL Hijacking Understanding the Intricate World of Dynamic Link Library Attacks](https://www.binarydefense.com/resources/blog/demystifying-dll-hijacking-understanding-the-intricate-world-of-dynamic-link-library-attacks/)
 
 ### <a name="kube"></a> ⚙️ KUBERNETES
 Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
