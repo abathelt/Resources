@@ -322,6 +322,7 @@ ________________________________________________________________________________
 - [Writing better Yara rules in 2023](https://www.hexacorn.com/blog/2023/08/26/writing-better-yara-rules-in-2023/)
 - [UNDERSTANDING RANSOMWARE-AS-A-SERVICE (RAAS) - A GUIDE](https://explore.avertium.com/resource/understanding-ransomware-as-a-service-a-guide)
 - [Demystifying DLL Hijacking Understanding the Intricate World of Dynamic Link Library Attacks](https://www.binarydefense.com/resources/blog/demystifying-dll-hijacking-understanding-the-intricate-world-of-dynamic-link-library-attacks/)
+- [Splunk Detections](https://research.splunk.com/detections/)
 
 ### <a name="kube"></a> ⚙️ KUBERNETES
 Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
