@@ -392,6 +392,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Pimeye](https://pimeyes.com/en)
 - [Sync Me](https://sync.me/)
 - [Shodan](https://www.shodan.io/)
+- [Censys](https://search.censys.io/) - similar to Shodan
+- [Binary Edge](https://app.binaryedge.io/services/query) - similar to Shodan 
 - [Wayback machine](https://archive.org/)
 - [Archive.today](https://archive.ph/)
 - [CachedView](https://cachedview.com/) - The Google Cache Browser for any page on the Internet.
