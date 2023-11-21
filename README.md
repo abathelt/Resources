@@ -486,6 +486,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [CTI 101 Student Handout](https://klrgrz.medium.com/cti-101-student-handout-42c1441d3519)
 - [Linux Threat hunting part 1](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-i-dd11b156cb7d)
 - [Linux Threat hunting part 2](https://medium.com/verint-cyber-engineering/linux-threat-hunting-primer-part-ii-69484f58ac92)
+- [Living Off Trusted Sites (LOTS) Project](https://lots-project.com/) - Attackers are using popular legitimate domains when conducting phishing, C&C, exfiltration and downloading tools to evade detection. The list of websites below allow attackers to use their domain or subdomain.
 
 ### <a name="traning"></a> ⛳ TRAINING COURSES 
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
