@@ -365,6 +365,7 @@ Is an open-source container-orchestration system for automating computer applica
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
 - [OSINT Framework](https://osintframework.com/)
 - [OSINT Me](https://www.osintme.com/)
+- [GROSpy](https://geospy.ai/) - detecting where the photo was taken
 - [OSINTCurious](OSINTCurio.us) - great tips related to OSINT, they have great podcast!
 - [OSINT Dojo](https://www.osintdojo.com/resources/)
 - [Tips and Tricks on Reverse Image Searches](https://osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/)
