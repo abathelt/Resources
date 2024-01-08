@@ -324,6 +324,7 @@ ________________________________________________________________________________
 - [Demystifying DLL Hijacking Understanding the Intricate World of Dynamic Link Library Attacks](https://www.binarydefense.com/resources/blog/demystifying-dll-hijacking-understanding-the-intricate-world-of-dynamic-link-library-attacks/)
 - [Splunk Detections](https://research.splunk.com/detections/)
 - [Create a new Sigma rule](https://sigmahq.streamlit.app/Create_A_New_Sigma_Rule)
+- [Yara Toolkit](https://yaratoolkit.securitybreak.io/) - yara editor, generator etc.
 
 ### <a name="kube"></a> ⚙️ KUBERNETES
 Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
