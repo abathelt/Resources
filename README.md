@@ -325,6 +325,7 @@ ________________________________________________________________________________
 - [Splunk Detections](https://research.splunk.com/detections/)
 - [Create a new Sigma rule](https://sigmahq.streamlit.app/Create_A_New_Sigma_Rule)
 - [Yara Toolkit](https://yaratoolkit.securitybreak.io/) - yara editor, generator etc.
+- [haveïbeensquattɘd¿](https://www.haveibeensquatted.com/) Typosquat checks
 
 ### <a name="kube"></a> ⚙️ KUBERNETES
 Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
@@ -344,6 +345,7 @@ Is an open-source container-orchestration system for automating computer applica
 ### <a name="malware"></a> 🕷️ MALWARE
 - [Malware Analysis In 5+ Hours](https://www.youtube.com/watch?v=qA0YcYMRWyI&ab_channel=HuskyHacks)
 - [maldefense](https://www.maldefense.com/)
+- [Abuse](https://abuse.ch/) - is providing community driven threat intelligence on cyber threats
 - [malware-traffic-analysis](https://www.malware-traffic-analysis.net/)
 - [SANS Malicious-File-Investigation-Procedures](https://www.sans.org/media/score/checklists/Malicious-File-Investigation-Procedures.pdf)
 - [exploit-db](https://www.exploit-db.com/)
@@ -537,6 +539,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [AdGuard AdBlocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [SafeType](https://chromewebstore.google.com/detail/mlnijlbdcehmipkmgmogebioeonfdpff) - Cyera Safe Type is an extention for anonimyzing private data in ChatGPT
 
 #### OS
 - [Kali Linux](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
