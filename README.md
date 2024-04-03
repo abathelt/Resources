@@ -191,6 +191,7 @@ ___________________________________________
 ### <a name="reports"></a> 📓 SECURITY REPORTS
 - [FireEye Threat Research](https://www.fireeye.com/blog/threat-research.html)
 - [THE DFIR REPORT](https://thedfirreport.com/)
+- [Mandiant blog](https://www.mandiant.com/resources/blog)
 
 ### <a name="youtube"></a> 📺 YOUTUBE
 - [0x4rkØ](https://www.youtube.com/c/0x4rk%C3%98) - OSINT, Vulnerability Management
@@ -243,6 +244,7 @@ Polish:
 - [cybersecurityventures](https://cybersecurityventures.com/mailing-list/)
 - [Robin Oldham newsletter](https://rto.me.uk/newsletter/)
 - [Naked security](https://nakedsecurity.sophos.com/)
+
 _____________________________________________________________________________________________________
 
 ### <a name="ad"></a> 🗂️ ACTIVE DIRECTORY
@@ -501,6 +503,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [SOC Core Skills w/ John Strand](https://wildwesthackinfest.com/antisyphon//soc-core-skills-john-strand/)
 - [Getting Started in Security with BHIS and MITRE ATT&CK](https://wildwesthackinfest.com/antisyphon/getting-started-in-security-with-bhis-and-mitre-attck-john-strand/)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/specializations/google-data-analytics)
+  [Blue Team Level 1](https://www.securityblue.team/why-btl1/) - Paid - £399 GBP
+- [CCD - Certified CyberDefender](https://cyberdefenders.org/) - Paid - $800 USD
 
 #### FREE
 - [ENISA CSIRT Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) - Trainings for Cybersecurity Specialists
