@@ -326,6 +326,7 @@ ________________________________________________________________________________
 - [Create a new Sigma rule](https://sigmahq.streamlit.app/Create_A_New_Sigma_Rule)
 - [Yara Toolkit](https://yaratoolkit.securitybreak.io/) - yara editor, generator etc.
 - [haveïbeensquattɘd¿](https://www.haveibeensquatted.com/) Typosquat checks
+- [Blue Team Guides](https://book.blueteamguides.com/)
 
 ### <a name="kube"></a> ⚙️ KUBERNETES
 Is an open-source container-orchestration system for automating computer application deployment, scaling, and management.
@@ -431,7 +432,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Ethical Hacking Essentials (EHE)](https://codered.eccouncil.org/course/ethical-hacking-essentials) - free course
 - [API Security Certified Expert](https://university.apisec.ai/apisec-certified-expert) - free course by Corey Ball
 - [Pentest Book](https://pentestbook.six2dez.com/)
-
+- [RedTeamRecipe](https://redteamrecipe.com/) ⭐
+ 
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
 - [Learn PowerShell](https://www.tutorialspoint.com/powershell/index.htm)
