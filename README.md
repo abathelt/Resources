@@ -516,6 +516,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [CRYPTO101](https://www.crypto101.io/)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [Code Red](https://codered.eccouncil.org/essentials-series-bundle/#pricing-plans) - Network Defense Essentials, Ethical Hacking Essentials, Digital Forensics Essentials
+- [C2 Attack & Defend](https://bluecapesecurity.com/courses/c2-attack-and-defend/)
 
 ### <a name="vuln"></a> 🩹 VULNERABILITY MANAGEMENT
 - [CVE Trends](https://cvetrends.com/)
