@@ -298,6 +298,7 @@ ________________________________________________________________________________
 - [Digital Forensics Essentials (DFE)](https://codered.eccouncil.org/course/digital-forensics-essentials) - free course
 - ['X-Ways Forensics' Video Clips](https://www.xwaysclips.co.uk/)
 - [Memory Forensic](https://memoryforensic.com/) - write ups, tutorials, blog
+- [Threat hunting with hints of incident response](https://threathunt.blog/)
 
 #### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
