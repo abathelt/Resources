@@ -443,6 +443,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [API Security Certified Expert](https://university.apisec.ai/apisec-certified-expert) - free course by Corey Ball
 - [Pentest Book](https://pentestbook.six2dez.com/)
 - [RedTeamRecipe](https://redteamrecipe.com/) ⭐
+- [Manipulating ActiveProcessLinks to Hide Processes in Userland](https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/manipulating-activeprocesslinks-to-unlink-processes-in-userland)
  
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
