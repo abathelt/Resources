@@ -376,6 +376,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Network lessons](https://networklessons.com/cisco)
 - [Network Defense Essentials (NDE)](https://codered.eccouncil.org/course/network-defense-essentials) - free course
 - [Free CCNA 200-301 course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+- [Cyren IP Reputation Check](https://www.cyren.com/security-center/cyren-ip-reputation-check-gate)
+- [Cisco IP Reputation](https://talosintelligence.com/reputation_center/)
 
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
 - [OSINT Framework](https://osintframework.com/)
