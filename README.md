@@ -21,9 +21,10 @@ ___________________________________________
 - ☁️ [CLOUD](#cloud)
 - 🕵️ [DFIR](#DFIR)
 - 🐟 [DOCKER](#docker)
+- 🏭 [ICS/OT](#ot)
 - 🛡️ [INFOSEC ANALYST](#analyst)
 - ⚙️ [KUBERNETES](#kube)
-- 🐧 [LINUX](#linux) 
+- 🐧 [LINUX](#linux)
 - 🕷️ [MALWARE](#malware)
 - 🌐 [NETWORK](#network)
 - 👁️‍🗨️ [OSINT](#osint)
@@ -318,6 +319,24 @@ ________________________________________________________________________________
 - [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana)
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 - [Play with docker](https://training.play-with-docker.com/) - labs and tutorials that help you get hands-on experience using Docker
+
+### <a name="ot"></a> 🏭 ICS/OT
+TRAINING
+- [CISA ICS training](https://ics-training.inl.gov/learn/signin) - Free training by CISA
+
+PODCASTS
+- [Control Loop](https://open.spotify.com/show/4C9w7T3YJt6kZ8je40B5Kb) - Control Loop is the OT Cybersecurity Podcast, your terminal for ICS security, intelligence, and learning. Every two weeks, we bring you the latest news, strategies, and technologies that industry professionals rely on to safeguard civilization.
+- [The Industrial Security Podcast](https://open.spotify.com/show/1F0k9fEq8q9f51n3ZQ584u) - takes a deep-dive into the most pressing emerging issues in SCADA technologies today.
+- [The PrOTect OT cybersecurity Podcast](https://open.spotify.com/show/0paav04Xxxdy5DrcTzSTjN) - brings together experts in the field of cybersecurity for critical infrastructure and industrial organizations.
+- [Unsolicited Response](https://open.spotify.com/show/3IBQ9z2x01JAkJQczBOXam) - Every week Dale Peterson interviews the innovators in OT and ICS security, as well as the top talent in related fields. 
+- [CS2AI podcast show]([https://www.cs2ai.org/podcast](https://open.spotify.com/show/7JVVSdCidMxXXeGtVLnHMS)) 
+CTFs
+-[CAPTURE THE FLAG 2024](https://hub.dragos.com/ctf-registration-24) - DRAGOS
+
+CERTIFICATES
+- [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) - SANS Global Industrial Cyber Security Professional Certification (💲 paid)
+- [GRID](https://www.giac.org/certifications/response-industrial-defense-grid/) - SANS GIAC Response and Industrial Defense (💲 paid)
+- [GCIP](https://www.giac.org/certifications/critical-infrastructure-protection-gcip/) - SANS GIAC Critical Infrastructure Protection Certification (💲 paid)
 
 ### <a name="analyst"></a> 🛡️ INFOSEC ANALYST
 - [Blue Teams Academy](https://www.blueteamsacademy.com/) - Free Training 2022
