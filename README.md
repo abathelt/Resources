@@ -1,7 +1,5 @@
 # Resources
 
-![Cybersecurity Domains](https://64.media.tumblr.com/a363e40b7d22d8835f58296df7498089/33455fcb12e993f8-38/s2048x3072/a2ac829046b46078a464dcfab16dc28dc925bfb9.png)
-
 - 📄 [CAREER/RESUME/LINKEDIN](#career) 
 - 📝 [BLOGS](#blogs)
 - 📚 [BOOKS](#books)
@@ -448,6 +446,14 @@ Is an open-source container-orchestration system for automating computer applica
 - [Dehashed](https://dehashed.com/)
 - [WhatsMyName](https://whatsmyname.app/)
 - [Snaptik](https://snaptik.app/pl) - download TikTok videos
+ ##### Tools for searching emails for a specific domain: 
+- [email-finder](snov.io/email-finder)
+- [experte](experte.com/email-finder)
+- [Infoga - github](github.com/GiJ03/Infoga)
+- [Infoga Email OSINT ](infoga.io) 
+- [findemail](findemail.io)
+- [hunter - Domain search](hunter.io/domain-search)
+- [minelead](minelead.io)
 
 ### <a name="pentest"></a> 🔥 PENTEST 
 - [Awesome Sites To Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
