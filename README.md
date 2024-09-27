@@ -391,6 +391,7 @@ Is an open-source container-orchestration system for automating computer applica
 
 ### <a name="network"></a> 🌐 NETWORK
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
+- [Wi is Fi](https://www.wiisfi.com/) - Understanding Wi-Fi 4/5/6/6E/7 (802.11 n/ac/ax/be)
 - [Network lessons](https://networklessons.com/cisco)
 - [Network Defense Essentials (NDE)](https://codered.eccouncil.org/course/network-defense-essentials) - free course
 - [Free CCNA 200-301 course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
