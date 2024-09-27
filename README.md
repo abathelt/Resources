@@ -10,8 +10,6 @@
 - 📺 [YOUTUBE](#youtube) 
 - 🗞️ [NEWSLETTERS](#newsletters)
 
-___________________________________________
-
 - 🗂️ [ACTIVE DIRECTORY](#ad)
 - ⌨️ [BASH](#bash) 
 - 🐛 [BUG BOUNTY](#bug)
@@ -39,6 +37,7 @@ ___________________________________________
 - 🩹 [VULNERABILITY MANAGEMENT](#vuln)
 - 💬 [OTHER](#other)
 
+*** 
 
 ### <a name="career"></a> 📄 CAREER/RESUME/LINKEDIN
 - [Heatmap](https://www.cyberseek.org/heatmap.html)
@@ -563,6 +562,7 @@ Is an open-source container-orchestration system for automating computer applica
 
 ### <a name="vuln"></a> 🩹 VULNERABILITY MANAGEMENT
 - [CVE Trends](https://cvetrends.com/)
+- [VARIoT IoT vulnerabilities and exploits databases](https://www.variotdbs.pl/)
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [Remedy Cloud](https://vulcan.io/remedy-cloud) - Search for a CVE below to see all the available fixes
 
