@@ -388,6 +388,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [A Beginner’s Guide to Tracking Malware Infrastructure](https://censys.com/a-beginners-guide-to-tracking-malware-infrastructure/)
 - [Learning Malware Analysis](https://github.com/jstrosch/learning-malware-analysis) - This repository contains sample programs that mimick behavior found in real-world malware.
 - [GETTING STARTED ANALYZING MALICIOUS DOCUMENTS](https://quickreference.thecyberyeti.com/malicious-docs) - 3 page PDF quick reference provides you with the tools you need to know when analyzing malicious documents, such as Word, OneNote and PDF.
+- [Downlaod Windows 10](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
+- [REMnux](https://remnux.org/#distro)
 
 ### <a name="network"></a> 🌐 NETWORK
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
