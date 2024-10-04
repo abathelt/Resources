@@ -405,6 +405,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Free CCNA 200-301 course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 - [Cyren IP Reputation Check](https://www.cyren.com/security-center/cyren-ip-reputation-check-gate)
 - [Cisco IP Reputation](https://talosintelligence.com/reputation_center/)
+- [System Design Basics - Load Balancing Algorithms](https://dev.to/somadevtoo/system-design-basics-load-balancing-algorithms-2559)
 
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
 - [OSINT Framework](https://osintframework.com/)
@@ -504,6 +505,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Briar](https://briarproject.org/) - Secure messaging, anywhere
 - [Element](https://element.io/) - Secure and independent communication, connected via Matrix
 - [OnionShare](https://onionshare.org/) - is an open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+- [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt/tree/main) - an open list of web crawlers associated with AI companies and the training of LLMs to block.
 
 ### <a name="python"></a> 🐍 PYTHON
 - [Python Tutorial for Beginners - Learn Python in 5 Hours](https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana) - I recommand!
@@ -535,6 +537,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [SQL teaching](https://www.sqlteaching.com/)
 - [KingLab](https://mystery.knightlab.com/)
 - [DB designer](https://www.dbdesigner.net/) - Online Database Schema Design and Modeling Tool
+- [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 
 ### <a name="TH"></a> 📊 THREAT HUNTING
 - [CyberChef](https://gchq.github.io/CyberChef/) - web app for encryption, encoding, compression and data analysis
