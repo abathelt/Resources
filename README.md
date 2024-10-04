@@ -53,6 +53,10 @@
 - [Managing Underperformers](https://jackdanger.com/managing-underperformers)
 - [How to understand/retain complex concepts 10x better](https://learnhowtolearn.org/how-to-understand-and-retain-any-concept-10x-better)
 - [Fighting With Your Boss](https://staysaasy.com/management/2024/07/15/fighting-with-your-boss)
+- [International Tech Job Search Handbook](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
+- [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall)
+- [Speaking for Hackers](https://sfhbook.netlify.app/) - how to do speaking on conferences
+- [ActivityWatch ](https://activitywatch.net/) - is an app that automatically tracks how you spend time on your devices.
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
