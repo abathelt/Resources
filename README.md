@@ -283,6 +283,7 @@ ________________________________________________________________________________
 
 ### <a name="cloud"></a> ☁️ CLOUD
 - [AzureHunter](https://github.com/darkquasar/AzureHunter)
+- [AWS Vulnerability Management Best Practices [Cheat Sheet]](https://www.wiz.io/lp/aws-vulnerability-management-best-practices-cheat-sheet?utm_source=tldrsec&utm_medium=paid-email&utm_campaign=FY25Q3_INB_FORM_AWS-Vulnerability-Management-Best-Practices-Cheat-Sheet&sfcid=701Py00000FaBR0IAN&utm_term=FY25H2-tldrsec-nl-primary&utm_content=AWS-VM-BestPractices)
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [unfur](https://dfir.blog/unfurl/)
@@ -406,6 +407,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Cyren IP Reputation Check](https://www.cyren.com/security-center/cyren-ip-reputation-check-gate)
 - [Cisco IP Reputation](https://talosintelligence.com/reputation_center/)
 - [System Design Basics - Load Balancing Algorithms](https://dev.to/somadevtoo/system-design-basics-load-balancing-algorithms-2559)
+- [WhoYouCalling](https://github.com/H4NM/WhoYouCalling?utm_source=substack&utm_medium=email) - Monitors network activity made by a process through the use of Windows Event Tracing (ETW) and Full Packet Capture (FPC). Filters a generated .pcap file with BPF based on the detected network activity made by the process. 
 
 ### <a name="osint"></a> 👁️‍🗨️ OSINT
 - [OSINT Framework](https://osintframework.com/)
