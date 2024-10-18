@@ -599,6 +599,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Putty](https://www.putty.org/) - an SSH and telnet client
 - [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) - to write a raw disk image to a removable device or backup a removable device to a raw image file. 
 - [pfpmaker](https://pfpmaker.com/) - Create an awesome profile picture for free
+- [Meld](https://meldmerge.org/) - helps you compare files, directories, and version controlled projects. It provides two- and three-way comparison of both files and directories, and has support for many popular version control systems.
+- [Netatmo](https://www.netatmo.com/) - inteligent camera
 
 #### WEB BROWSER EXTENTION
 - [Mitaka](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg/related?authuser=0) - searching IP, domain, URL, hash, etc. via the context menu.
