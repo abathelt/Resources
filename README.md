@@ -488,6 +488,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Pentest Book](https://pentestbook.six2dez.com/)
 - [RedTeamRecipe](https://redteamrecipe.com/) ⭐
 - [Manipulating ActiveProcessLinks to Hide Processes in Userland](https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/manipulating-activeprocesslinks-to-unlink-processes-in-userland)
+- [15 Ways to Bypass the PowerShell Execution Policy](https://www.netspi.com/blog/technical-blog/network-penetration-testing/15-ways-to-bypass-the-powershell-execution-policy/)
  
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
