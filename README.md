@@ -435,6 +435,11 @@ Is an open-source container-orchestration system for automating computer applica
 - [Twitter Advance Searches](https://www.tweetbinder.com/blog/twitter-advanced-search/)
 - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - identify ransomware
 - [Unlisted Videos](https://unlistedvideos.com/indexm.html) - find unlisted YouTube videos
+- [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
+- [scamsearch](https://scamsearch.io/#anchorCeckNow)
+- [castrickclues](https://castrickclues.com/)
+- [holehe](https://github.com/megadose/holehe) - Efficiently finding registered accounts from emails.
+- [mailcat](https://github.com/sharsil/mailcat) - The only cat who can find existing email addresses by nickname.
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
