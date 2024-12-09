@@ -309,6 +309,7 @@ ________________________________________________________________________________
 - [Memory Forensic](https://memoryforensic.com/) - write ups, tutorials, blog
 - [Threat hunting with hints of incident response](https://threathunt.blog/)
 - [Digital Forensic & Incident Response](https://www.iblue.team/)
+- [PSDecode](https://github.com/R3MRUM/PSDecode) - This is a PowerShell script for deobfuscating other encoded PowerShell scripts. 
 
 #### DFIR TOOLS FOR DATA ACQUISITION
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)
