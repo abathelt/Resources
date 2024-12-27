@@ -445,6 +445,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [mailcat](https://github.com/sharsil/mailcat) - The only cat who can find existing email addresses by nickname.
 - [Wikimapia](https://wikimapia.org/) - s an online editable map - you can describe any place on Earth.
 - [cylect](https://cylect.io/) - the Ultimate AI OSINT Tool
+- [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/)
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
