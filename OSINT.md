@@ -177,7 +177,8 @@ Search in google: <br />
 - [Shodan](https://shodan.io)
 - In Shodan: ciy:atlanta port:3389 org:choopa
 - [Wayback Machine](https://web.archive.org/)
-- In Google: search for website, click on 3 dots next to address and pick cached if the website is not available right now. 
+- In Google: search for website, click on 3 dots next to address and pick cached if the website is not available right now.
+- [Wikimapia](https://wikimapia.org/) - s an online editable map - you can describe any place on Earth.
 
 ### <a name="HBI"></a> Hunting Business Information
 - Search for badge, desk, dresscode, apps on LinkedIn 
