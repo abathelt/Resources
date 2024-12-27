@@ -226,7 +226,8 @@
 - [DFIRScience](https://www.youtube.com/@DFIRScience) - DFIR stuff
 - [Email Forensics by Metaspike](https://www.youtube.com/@Metaspike/videos) - Forensics
 - [Chris Greer](https://www.youtube.com/@ChrisGreer/videos) - chanell about Wireshark
-- [Practical Networking](https://www.youtube.com/@PracticalNetworking/videos) 
+- [Practical Networking](https://www.youtube.com/@PracticalNetworking/videos)
+- [Gary Ruddell](https://www.youtube.com/@theGaryRuddell) - OSINT
 
 Conferences: 
 - [DEFCON](https://defcon.org/)
@@ -442,6 +443,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [castrickclues](https://castrickclues.com/)
 - [holehe](https://github.com/megadose/holehe) - Efficiently finding registered accounts from emails.
 - [mailcat](https://github.com/sharsil/mailcat) - The only cat who can find existing email addresses by nickname.
+- [Wikimapia](https://wikimapia.org/) - s an online editable map - you can describe any place on Earth.
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
