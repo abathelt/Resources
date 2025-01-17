@@ -447,6 +447,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [cylect](https://cylect.io/) - the Ultimate AI OSINT Tool
 - [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/)
 - [Face check id](https://facecheck.id/) - search based on the photo of the face
+- [GeoSpy Vision](https://geospy.ai/) - Convert pixels into actionable intelligence using generative AI
+- [Solve the case](https://www.solvethecase.org/) - Help solve real world cases
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
