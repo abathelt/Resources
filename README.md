@@ -449,6 +449,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Face check id](https://facecheck.id/) - search based on the photo of the face
 - [GeoSpy Vision](https://geospy.ai/) - Convert pixels into actionable intelligence using generative AI
 - [Solve the case](https://www.solvethecase.org/) - Help solve real world cases
+- [Surveillance Under Surveillance](https://sunders.uber.space/) - leverages hard-to-reach Open Street Maps data to geolocate all cameras.
+- [Free LinkedIn Profile viewr Tool](https://nubela.co/proxycurl/demo/linkedin-profile-viewer)
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
@@ -475,6 +477,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Dehashed](https://dehashed.com/)
 - [WhatsMyName](https://whatsmyname.app/)
 - [Snaptik](https://snaptik.app/pl) - download TikTok videos
+- [GoSearch](https://github.com/ibnaleem/gosearch) - is an efficient and reliable OSINT tool designed for uncovering digital footprints associated with a given username.
  ##### Tools for searching emails for a specific domain: 
 - [email-finder](snov.io/email-finder)
 - [experte](experte.com/email-finder)
