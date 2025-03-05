@@ -606,6 +606,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [Remedy Cloud](https://vulcan.io/remedy-cloud) - Search for a CVE below to see all the available fixes
 
 ### <a name="other"></a> 💬 OTHER
+- [Inventory](https://inventory.raw.pm/) - cybersecurity tools and resources
 - [Sound of Text](https://soundoftext.com/) - makes a sound of the text you wirte
 - [Rambox](https://rambox.app/#home) - the best way to organize your workspace
 - [Mindmup](https://www.mindmup.com/) - create your mindmap
