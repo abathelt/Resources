@@ -289,6 +289,11 @@ ________________________________________________________________________________
 ### <a name="cloud"></a> ☁️ CLOUD
 - [AzureHunter](https://github.com/darkquasar/AzureHunter)
 - [AWS Vulnerability Management Best Practices [Cheat Sheet]](https://www.wiz.io/lp/aws-vulnerability-management-best-practices-cheat-sheet?utm_source=tldrsec&utm_medium=paid-email&utm_campaign=FY25Q3_INB_FORM_AWS-Vulnerability-Management-Best-Practices-Cheat-Sheet&sfcid=701Py00000FaBR0IAN&utm_term=FY25H2-tldrsec-nl-primary&utm_content=AWS-VM-BestPractices)
+- [Ransomware in the cloud](https://www.invictus-ir.com/news/ransomware-in-the-cloud) - article
+- [Cloud native incident response in AWS](https://www.invictus-ir.com/news/cloud-native-incident-response-in-aws---part-ii)
+- [The curious case of DangerDev@protonmail.me](https://www.invictus-ir.com/news/the-curious-case-of-dangerdev-protonmail-me) - An AWS incident response story
+- [Analyzing access to S3 buckets](https://blog.cloudsecuritypartners.com/analyzing-access-to-s3-buckets
+- [Amazon (AWS) S3 Bucket Take Over](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/amazon-aws-s3-bucket-take-over/)
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [unfur](https://dfir.blog/unfurl/)
