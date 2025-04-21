@@ -456,6 +456,8 @@ Is an open-source container-orchestration system for automating computer applica
 - [Solve the case](https://www.solvethecase.org/) - Help solve real world cases
 - [Surveillance Under Surveillance](https://sunders.uber.space/) - leverages hard-to-reach Open Street Maps data to geolocate all cameras.
 - [Free LinkedIn Profile viewr Tool](https://nubela.co/proxycurl/demo/linkedin-profile-viewer)
+- [FilePhish  - DORKING](https://greylensresearch.github.io/filephish/) - Build targeted search queries to discover exposed documents online.
+Select file types, keywords, and search engines for precise OSINT collection.
 
 #### Tools
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
