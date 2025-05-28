@@ -547,7 +547,10 @@ Select file types, keywords, and search engines for precise OSINT collection.
 - [Python Beginners](https://python-adv-web-apps.readthedocs.io/en/latest/index.html)
 - [Automate Your Life with Python](https://www.freecodecamp.org/news/automate-your-life-with-python/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Python](https://networklessons.com/python)
+- [Python course on networklessons.com](https://networklessons.com/python)
+- [Python Programming MOOC 2024](https://programming-24.mooc.fi/) - Helsinki University
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python?tab=readme-ov-file) - Implementations are for learning purposes only.
+- [Fluent Python](https://elmoukrie.com/wp-content/uploads/2022/05/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf)
 
 ### <a name="regex"></a> *️⃣ REGEX
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
