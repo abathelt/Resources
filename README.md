@@ -331,6 +331,7 @@ ________________________________________________________________________________
 - [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
 - [Thumbcache Viewer](https://thumbcacheviewer.github.io/) - extract thumbnail images from the thumbcache
 - [JumpListsView](https://www.nirsoft.net/utils/jump_lists_view.html) - displays the information stored by the 'Jump Lists' filename, data, event, id, size etc.
+- [ArgFuscator](https://argfuscator.net/)
 
 ### <a name="docker"></a> 🐟 DOCKER
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
