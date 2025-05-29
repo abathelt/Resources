@@ -15,6 +15,7 @@
 - 🐛 [BUG BOUNTY](#bug)
 - 👨‍🍳 [CyberChef](#chef)
 - ☁️ [CLOUD](#cloud)
+- 🧑‍💻 [DETECTION ENGINEERING](#detect)
 - 🕵️ [DFIR](#DFIR)
 - 🐟 [DOCKER](#docker)
 - 🏭 [ICS/OT](#ot)
@@ -295,6 +296,10 @@ ________________________________________________________________________________
 - [The curious case of DangerDev@protonmail.me](https://www.invictus-ir.com/news/the-curious-case-of-dangerdev-protonmail-me) - An AWS incident response story
 - [Analyzing access to S3 buckets](https://blog.cloudsecuritypartners.com/analyzing-access-to-s3-buckets
 - [Amazon (AWS) S3 Bucket Take Over](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/amazon-aws-s3-bucket-take-over/)
+
+### <a name="detect"></a> 🧑‍💻 DETECTION ENGINEERING
+- [Detections XYZ](https://detections.xyz/) - Detection knowledge repository – by Daniel Koifman
+- [Detection Pitfalls You Might Be Sleeping On](https://detect.fyi/detection-pitfalls-you-might-be-sleeping-on-52b5a3d9a0c8)
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [unfur](https://dfir.blog/unfurl/)
