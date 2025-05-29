@@ -28,6 +28,7 @@
 - 🟦 [POWERSHELL](#powershell) 
 - 🔒 [PRIVACY](#privacy)
 - 🐍 [PYTHON](#python)
+- 🍓 [RASPBERRY PI](#rasp)
 - *️⃣ [REGEX](#regex) 
 - ◀️ [REVERSE ENGINEERING](#reverse) 
 - 🧪 [SQL](#sql) 
@@ -551,6 +552,9 @@ Select file types, keywords, and search engines for precise OSINT collection.
 - [Python Programming MOOC 2024](https://programming-24.mooc.fi/) - Helsinki University
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python?tab=readme-ov-file) - Implementations are for learning purposes only.
 - [Fluent Python](https://elmoukrie.com/wp-content/uploads/2022/05/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf)
+
+### <a name="rasp"></a> 🍓 RASPBERRY PI
+- [Raspberry Pi Hardening Guide](https://www.chrisapproved.com/blog/raspberry-pi-hardening.html)
 
 ### <a name="regex"></a> *️⃣ REGEX
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
