@@ -303,6 +303,7 @@ ________________________________________________________________________________
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [unfur](https://dfir.blog/unfurl/)
+- [hackthelogs](https://www.hackthelogs.com/)
 - [The Hitchhiker's Guide to DFIR: Experiences From Beginners and Experts](https://leanpub.com/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts)
 - [Stark4n6's startme](https://start.me/p/q6mw4Q/forensics)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
