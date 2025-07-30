@@ -522,6 +522,7 @@ Select file types, keywords, and search engines for precise OSINT collection.
 - [Manipulating ActiveProcessLinks to Hide Processes in Userland](https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/manipulating-activeprocesslinks-to-unlink-processes-in-userland)
 - [15 Ways to Bypass the PowerShell Execution Policy](https://www.netspi.com/blog/technical-blog/network-penetration-testing/15-ways-to-bypass-the-powershell-execution-policy/)
 - [Reverse Shell Generator](https://www.revshells.com/)
+- [Sploitus](https://sploitus.com/) - POCs
  
 ### <a name="powershell"></a> 🟦 POWERSHELL
 - [PowerShell forensics](https://powerforensics.readthedocs.io/en/latest/)
