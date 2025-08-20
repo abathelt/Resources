@@ -137,6 +137,7 @@
 ### <a name="ctf"></a> ♟️ CTF/CHALLANGES/LABS
 - [AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 - [pwnable](https://pwnable.kr/)
+- [PWNEDlabs](https://pwnedlabs.io/)
 - [Backdoors&Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
 - [Blue Team Labs](https://blueteamlabs.online/)
 - [bWAPP](http://itsecgames.com) - buggy web application
