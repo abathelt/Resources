@@ -418,6 +418,7 @@ Is an open-source container-orchestration system for automating computer applica
 - [GETTING STARTED ANALYZING MALICIOUS DOCUMENTS](https://quickreference.thecyberyeti.com/malicious-docs) - 3 page PDF quick reference provides you with the tools you need to know when analyzing malicious documents, such as Word, OneNote and PDF.
 - [Downlaod Windows 10](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
 - [REMnux](https://remnux.org/#distro)
+- [OPEN SOURCE MALWARE](https://opensourcemalware.com/) - A community database, API and collaboration platform to help identify and protect against open-source malware
 
 ### <a name="network"></a> 🌐 NETWORK
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
