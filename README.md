@@ -307,6 +307,7 @@ ________________________________________________________________________________
 ### <a name="detect"></a> 🧑‍💻 DETECTION ENGINEERING
 - [Detections XYZ](https://detections.xyz/) - Detection knowledge repository – by Daniel Koifman
 - [Detection Pitfalls You Might Be Sleeping On](https://detect.fyi/detection-pitfalls-you-might-be-sleeping-on-52b5a3d9a0c8)
+- [Auditing LDAP Queries for Active Directory Enumeration](https://filippwn.github.io/blog/2026/07/auditing-ldap-queries/)
 
 ### <a name="DFIR"></a> 🕵️ DFIR
 - [unfur](https://dfir.blog/unfurl/)
