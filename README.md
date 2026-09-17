@@ -11,6 +11,7 @@
 - 🗞️ [NEWSLETTERS](#newsletters)
 
 - 🗂️ [ACTIVE DIRECTORY](#ad)
+- 🤖 [AI](#ai)
 - ⌨️ [BASH](#bash) 
 - 🐛 [BUG BOUNTY](#bug)
 - 👨‍🍳 [CyberChef](#chef)
@@ -18,6 +19,7 @@
 - 🧑‍💻 [DETECTION ENGINEERING](#detect)
 - 🕵️ [DFIR](#DFIR)
 - 🐟 [DOCKER](#docker)
+- 📺 [GIT](#git)
 - 🏭 [ICS/OT](#ot)
 - 🛡️ [INFOSEC ANALYST](#analyst)
 - ⚙️ [KUBERNETES](#kube)
@@ -266,6 +268,10 @@ ________________________________________________________________________________
 - [Active Directory Security](https://www.active-directory-security.com/)
 - [Harmj0y](http://harmj0y.net/blog/)
 
+### <a name="ai"></a> 🤖 AI
+- [HasAIbeenPwned?](https://hasaibeenpwned.com/) - Track jailbreaks, prompt injections, and security incidents across all major AI models
+- [Claude Code Cheat Sheet](https://cc.storyfox.cz/)
+
 ### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
 - [Bash introduction for hackers part 2](https://hakin9.org/bash-introduction-for-hackers-part-2/)
@@ -342,6 +348,9 @@ ________________________________________________________________________________
 - [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana)
 - [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 - [Play with docker](https://training.play-with-docker.com/) - labs and tutorials that help you get hands-on experience using Docker
+
+### <a name="git"></a> 📺 GIT
+- [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
 
 ### <a name="ot"></a> 🏭 ICS/OT
 TRAINING
