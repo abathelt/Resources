@@ -62,6 +62,7 @@
 - [Speaking for Hackers](https://sfhbook.netlify.app/) - how to do speaking on conferences
 - [ActivityWatch ](https://activitywatch.net/) - is an app that automatically tracks how you spend time on your devices.
 - [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews)
+- [How to Grow Past Senior Engineer](https://newsletter.eng-leadership.com/p/how-to-grow-past-senior-engineer)
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
@@ -272,7 +273,8 @@ ________________________________________________________________________________
 ### <a name="ai"></a> 🤖 AI
 - [HasAIbeenPwned?](https://hasaibeenpwned.com/) - Track jailbreaks, prompt injections, and security incidents across all major AI models
 - [Claude Code Cheat Sheet](https://cc.storyfox.cz/)
-- [Here's What Agentic AI Can Do With Have I Been Pwned's APIs](https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis) - MCP 
+- [Here's What Agentic AI Can Do With Have I Been Pwned's APIs](https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis) - MCP
+- [Check if a file was made with Claude](https://claude.com/check-files)
 
 ### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
