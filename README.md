@@ -31,7 +31,7 @@
 - 🟦 [POWERSHELL](#powershell) 
 - 🔒 [PRIVACY](#privacy)
 - 🐍 [PYTHON](#python)
-- 🍓 [RASPBERRY PI](#rasp)
+- 🍓 [RASPBERRY PI/HARDWARE](#rasp)
 - *️⃣ [REGEX](#regex) 
 - ◀️ [REVERSE ENGINEERING](#reverse) 
 - 🧪 [SQL](#sql) 
@@ -61,6 +61,7 @@
 - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall)
 - [Speaking for Hackers](https://sfhbook.netlify.app/) - how to do speaking on conferences
 - [ActivityWatch ](https://activitywatch.net/) - is an app that automatically tracks how you spend time on your devices.
+- [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews)
 
 ### <a name="blogs"></a> 📝 BLOGS
 - [ADSecurity](https://adsecurity.org/)
@@ -271,6 +272,7 @@ ________________________________________________________________________________
 ### <a name="ai"></a> 🤖 AI
 - [HasAIbeenPwned?](https://hasaibeenpwned.com/) - Track jailbreaks, prompt injections, and security incidents across all major AI models
 - [Claude Code Cheat Sheet](https://cc.storyfox.cz/)
+- [Here's What Agentic AI Can Do With Have I Been Pwned's APIs](https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis) - MCP 
 
 ### <a name="bash"></a> ⌨️ BASH
 - [Bash introduction for hackers part 1](https://hakin9.org/bash-introduction-for-hackers-part-1/)
@@ -573,8 +575,9 @@ Select file types, keywords, and search engines for precise OSINT collection.
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python?tab=readme-ov-file) - Implementations are for learning purposes only.
 - [Fluent Python](https://elmoukrie.com/wp-content/uploads/2022/05/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf)
 
-### <a name="rasp"></a> 🍓 RASPBERRY PI
+### <a name="rasp"></a> 🍓 RASPBERRY PI/HARDWARE
 - [Raspberry Pi Hardening Guide](https://www.chrisapproved.com/blog/raspberry-pi-hardening.html)
+- [Kindle dashboard: 3 ways to build one in 2026](https://terminalbytes.com/kindle-dashboard-eink-display-2026)
 
 ### <a name="regex"></a> *️⃣ REGEX
 - [Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
